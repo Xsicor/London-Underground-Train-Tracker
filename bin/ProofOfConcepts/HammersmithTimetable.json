@@ -1,0 +1,286 @@
+{
+    "outbound": [
+        {
+            "to": "940GZZLUGHK",
+            "from": "940GZZLUHSC",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUSBM",
+            "from": "940GZZLUGHK",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUWLA",
+            "from": "940GZZLUSBM",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLULRD",
+            "from": "940GZZLUWLA",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLULAD",
+            "from": "940GZZLULRD",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUWSP",
+            "from": "940GZZLULAD",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLURYO",
+            "from": "940GZZLUWSP",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUPAH",
+            "from": "940GZZLURYO",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUERC",
+            "from": "940GZZLUPAH",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUBST",
+            "from": "940GZZLUERC",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUGPS",
+            "from": "940GZZLUBST",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUESQ",
+            "from": "940GZZLUGPS",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUKSX",
+            "from": "940GZZLUESQ",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUFCN",
+            "from": "940GZZLUKSX",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUBBN",
+            "from": "940GZZLUFCN",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUMGT",
+            "from": "940GZZLUBBN",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLULVT",
+            "from": "940GZZLUMGT",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUADE",
+            "from": "940GZZLULVT",
+            "timeToArrival": 4.0
+        },
+        {
+            "to": "940GZZLUWPL",
+            "from": "940GZZLUADE",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUSGN",
+            "from": "940GZZLUWPL",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUMED",
+            "from": "940GZZLUSGN",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUBWR",
+            "from": "940GZZLUMED",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUBBB",
+            "from": "940GZZLUBWR",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUWHM",
+            "from": "940GZZLUBBB",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUPLW",
+            "from": "940GZZLUWHM",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUUPK",
+            "from": "940GZZLUPLW",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUEHM",
+            "from": "940GZZLUUPK",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUBKG",
+            "from": "940GZZLUEHM",
+            "timeToArrival": 3.0
+        }
+    ],
+    "inbound": [
+        {
+            "to": "940GZZLUEHM",
+            "from": "940GZZLUBKG",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUUPK",
+            "from": "940GZZLUEHM",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUPLW",
+            "from": "940GZZLUUPK",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUWHM",
+            "from": "940GZZLUPLW",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUBBB",
+            "from": "940GZZLUWHM",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUBWR",
+            "from": "940GZZLUBBB",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUMED",
+            "from": "940GZZLUBWR",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUSGN",
+            "from": "940GZZLUMED",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUWPL",
+            "from": "940GZZLUSGN",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUADE",
+            "from": "940GZZLUWPL",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLULVT",
+            "from": "940GZZLUADE",
+            "timeToArrival": 5.0
+        },
+        {
+            "to": "940GZZLUMGT",
+            "from": "940GZZLULVT",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUBBN",
+            "from": "940GZZLUMGT",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUFCN",
+            "from": "940GZZLUBBN",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUKSX",
+            "from": "940GZZLUFCN",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUESQ",
+            "from": "940GZZLUKSX",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUGPS",
+            "from": "940GZZLUESQ",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUBST",
+            "from": "940GZZLUGPS",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUERC",
+            "from": "940GZZLUBST",
+            "timeToArrival": 3.0
+        },
+        {
+            "to": "940GZZLUPAH",
+            "from": "940GZZLUERC",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLURYO",
+            "from": "940GZZLUPAH",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUWSP",
+            "from": "940GZZLURYO",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLULAD",
+            "from": "940GZZLUWSP",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLULRD",
+            "from": "940GZZLULAD",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUWLA",
+            "from": "940GZZLULRD",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUSBM",
+            "from": "940GZZLUWLA",
+            "timeToArrival": 1.0
+        },
+        {
+            "to": "940GZZLUGHK",
+            "from": "940GZZLUSBM",
+            "timeToArrival": 2.0
+        },
+        {
+            "to": "940GZZLUHSC",
+            "from": "940GZZLUGHK",
+            "timeToArrival": 2.0
+        }
+    ]
+}

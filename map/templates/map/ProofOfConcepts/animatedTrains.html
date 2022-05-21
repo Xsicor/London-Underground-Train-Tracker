@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Mapbox Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js'></script>
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'map/ProofOfConcepts/animatedTrains.css' %}" />
+
+</head>
+
+<body>
+    <div id='map'></div>
+
+    {% load static %}
+    <script src="{% static 'map/ProofOfConcepts/animatedTrains.js' %}"></script>
+</body>
+
+</html>

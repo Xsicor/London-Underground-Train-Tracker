@@ -1,0 +1,7698 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2022-01-20T03:32:42Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/3996654",
+          "branch": "Ealing Broadway;Uxbridge",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2881568,
+              51.5147071
+            ],
+            [
+              -0.2880541,
+              51.5145901
+            ],
+            [
+              -0.2879996,
+              51.514521
+            ],
+            [
+              -0.2879295,
+              51.5144269
+            ],
+            [
+              -0.2878679,
+              51.514324
+            ],
+            [
+              -0.2878088,
+              51.5141871
+            ],
+            [
+              -0.2877542,
+              51.5140344
+            ],
+            [
+              -0.2877198,
+              51.5139119
+            ],
+            [
+              -0.2876872,
+              51.5137704
+            ],
+            [
+              -0.2876731,
+              51.5135529
+            ],
+            [
+              -0.2876909,
+              51.5133712
+            ],
+            [
+              -0.2877161,
+              51.513229
+            ],
+            [
+              -0.2877629,
+              51.513067
+            ],
+            [
+              -0.2879085,
+              51.5126385
+            ],
+            [
+              -0.2879699,
+              51.5124326
+            ],
+            [
+              -0.288013,
+              51.5122393
+            ],
+            [
+              -0.2880531,
+              51.511936
+            ],
+            [
+              -0.2881624,
+              51.510979
+            ],
+            [
+              -0.2881994,
+              51.5106295
+            ]
+          ]
+        },
+        "id": "way/3996654"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/3996658",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2220492,
+              51.4911866
+            ],
+            [
+              -0.2219757,
+              51.4911303
+            ],
+            [
+              -0.2218717,
+              51.4910586
+            ],
+            [
+              -0.2217673,
+              51.4909895
+            ],
+            [
+              -0.2213907,
+              51.4907715
+            ],
+            [
+              -0.2211913,
+              51.4906807
+            ],
+            [
+              -0.2210169,
+              51.4906068
+            ],
+            [
+              -0.2208193,
+              51.4905449
+            ],
+            [
+              -0.2205546,
+              51.4904762
+            ],
+            [
+              -0.2203156,
+              51.4904179
+            ],
+            [
+              -0.2199378,
+              51.490346
+            ],
+            [
+              -0.2195538,
+              51.4902981
+            ],
+            [
+              -0.2189075,
+              51.4902709
+            ],
+            [
+              -0.2185093,
+              51.4902699
+            ],
+            [
+              -0.2168784,
+              51.4903382
+            ],
+            [
+              -0.2163946,
+              51.4903669
+            ],
+            [
+              -0.215994,
+              51.4903956
+            ],
+            [
+              -0.2156374,
+              51.4904116
+            ],
+            [
+              -0.2154674,
+              51.4904193
+            ],
+            [
+              -0.215331,
+              51.4904242
+            ],
+            [
+              -0.215195,
+              51.4904267
+            ],
+            [
+              -0.2149853,
+              51.49043
+            ],
+            [
+              -0.214783,
+              51.49043
+            ],
+            [
+              -0.214492,
+              51.4904269
+            ]
+          ]
+        },
+        "id": "way/3996658"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4241063",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0248416,
+              51.5268726
+            ],
+            [
+              -0.0246099,
+              51.5268319
+            ],
+            [
+              -0.0243152,
+              51.5267555
+            ],
+            [
+              -0.0239914,
+              51.5266492
+            ],
+            [
+              -0.0235822,
+              51.5264558
+            ],
+            [
+              -0.0218763,
+              51.525568
+            ],
+            [
+              -0.0212434,
+              51.525229
+            ],
+            [
+              -0.0207648,
+              51.5249674
+            ]
+          ]
+        },
+        "id": "way/4241063"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4592331",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0843205,
+              51.5106401
+            ],
+            [
+              -0.0840808,
+              51.5106334
+            ],
+            [
+              -0.0838356,
+              51.5106302
+            ],
+            [
+              -0.0836248,
+              51.5106159
+            ],
+            [
+              -0.0831535,
+              51.5105579
+            ],
+            [
+              -0.0826885,
+              51.5104458
+            ],
+            [
+              -0.0815989,
+              51.5100769
+            ],
+            [
+              -0.0804517,
+              51.5096775
+            ],
+            [
+              -0.0804008,
+              51.509664
+            ],
+            [
+              -0.0803466,
+              51.5096572
+            ],
+            [
+              -0.0796337,
+              51.5096459
+            ],
+            [
+              -0.0790122,
+              51.5096115
+            ],
+            [
+              -0.078665,
+              51.5095869
+            ],
+            [
+              -0.0784592,
+              51.5095854
+            ],
+            [
+              -0.0783151,
+              51.5096142
+            ],
+            [
+              -0.0781999,
+              51.5096699
+            ],
+            [
+              -0.077918,
+              51.509777
+            ],
+            [
+              -0.0777502,
+              51.509812
+            ],
+            [
+              -0.0777298,
+              51.5098131
+            ]
+          ]
+        },
+        "id": "way/4592331"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/8137386",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2816684,
+              51.5037925
+            ],
+            [
+              -0.281413,
+              51.5036563
+            ]
+          ]
+        },
+        "id": "way/8137386"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/8820054",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "railway": "subway",
+          "source": "NPE",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3015642,
+              51.5152282
+            ],
+            [
+              -0.301372,
+              51.5152274
+            ],
+            [
+              -0.2994824,
+              51.5152218
+            ]
+          ]
+        },
+        "id": "way/8820054"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/9897070",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.200951,
+              51.4905188
+            ],
+            [
+              -0.2007425,
+              51.4903932
+            ],
+            [
+              -0.2004374,
+              51.4902273
+            ],
+            [
+              -0.2001501,
+              51.4901232
+            ],
+            [
+              -0.1998424,
+              51.4900307
+            ],
+            [
+              -0.1995564,
+              51.489952
+            ],
+            [
+              -0.1989875,
+              51.4898633
+            ],
+            [
+              -0.1983945,
+              51.48982
+            ],
+            [
+              -0.1980324,
+              51.4898299
+            ],
+            [
+              -0.1977069,
+              51.4898514
+            ],
+            [
+              -0.1972615,
+              51.4899193
+            ],
+            [
+              -0.1967312,
+              51.4900355
+            ],
+            [
+              -0.1963408,
+              51.49018
+            ]
+          ]
+        },
+        "id": "way/9897070"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758615",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0080429,
+              51.5254009
+            ],
+            [
+              -0.0064191,
+              51.5257764
+            ]
+          ]
+        },
+        "id": "way/22758615"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758619",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0064191,
+              51.5257764
+            ],
+            [
+              -0.0061444,
+              51.5258416
+            ],
+            [
+              -0.0047993,
+              51.5261357
+            ],
+            [
+              -0.0034446,
+              51.5264546
+            ],
+            [
+              -0.0007441,
+              51.5270809
+            ],
+            [
+              0.0000983,
+              51.5272755
+            ],
+            [
+              0.0010875,
+              51.527501
+            ],
+            [
+              0.0018706,
+              51.5276874
+            ],
+            [
+              0.0026478,
+              51.527882
+            ],
+            [
+              0.0032143,
+              51.528018
+            ],
+            [
+              0.0035768,
+              51.528111
+            ],
+            [
+              0.0040652,
+              51.5282392
+            ]
+          ]
+        },
+        "id": "way/22758619"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758623",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0690161,
+              51.5439508
+            ],
+            [
+              0.0697095,
+              51.5437959
+            ]
+          ]
+        },
+        "id": "way/22758623"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758624",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0697095,
+              51.5437959
+            ],
+            [
+              0.070179,
+              51.543693
+            ],
+            [
+              0.0706786,
+              51.5435965
+            ],
+            [
+              0.0710553,
+              51.5435309
+            ]
+          ]
+        },
+        "id": "way/22758624"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758627",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0187254,
+              51.5316029
+            ],
+            [
+              0.0209768,
+              51.5321117
+            ],
+            [
+              0.0240752,
+              51.5328379
+            ],
+            [
+              0.0248908,
+              51.5330273
+            ],
+            [
+              0.0257895,
+              51.5332278
+            ],
+            [
+              0.0276108,
+              51.5336391
+            ],
+            [
+              0.0284731,
+              51.5338382
+            ],
+            [
+              0.0294771,
+              51.5340696
+            ],
+            [
+              0.0311225,
+              51.5344441
+            ],
+            [
+              0.0318736,
+              51.5346306
+            ],
+            [
+              0.0325875,
+              51.5348043
+            ],
+            [
+              0.0350852,
+              51.535378
+            ],
+            [
+              0.0356797,
+              51.5355063
+            ],
+            [
+              0.0367013,
+              51.5357183
+            ],
+            [
+              0.0377329,
+              51.5359594
+            ],
+            [
+              0.0392241,
+              51.5363038
+            ],
+            [
+              0.0400767,
+              51.5365028
+            ],
+            [
+              0.040826,
+              51.5366754
+            ],
+            [
+              0.0419764,
+              51.5369385
+            ],
+            [
+              0.0431243,
+              51.5371997
+            ],
+            [
+              0.0442692,
+              51.5374678
+            ],
+            [
+              0.0452291,
+              51.5376892
+            ],
+            [
+              0.0462418,
+              51.5379161
+            ],
+            [
+              0.0471814,
+              51.5381264
+            ],
+            [
+              0.0481313,
+              51.5383353
+            ],
+            [
+              0.0487791,
+              51.5384766
+            ],
+            [
+              0.0495945,
+              51.5386561
+            ],
+            [
+              0.050159,
+              51.5387808
+            ],
+            [
+              0.0505407,
+              51.538869
+            ],
+            [
+              0.0511126,
+              51.5390027
+            ],
+            [
+              0.0516729,
+              51.5391471
+            ],
+            [
+              0.0520147,
+              51.539249
+            ],
+            [
+              0.0524073,
+              51.5393605
+            ],
+            [
+              0.0528386,
+              51.5394883
+            ],
+            [
+              0.0530995,
+              51.5395664
+            ],
+            [
+              0.0532549,
+              51.5396159
+            ],
+            [
+              0.0535813,
+              51.5397191
+            ],
+            [
+              0.0541596,
+              51.539905
+            ],
+            [
+              0.0546776,
+              51.5400745
+            ],
+            [
+              0.055272,
+              51.5402845
+            ],
+            [
+              0.0558551,
+              51.5405032
+            ],
+            [
+              0.0559404,
+              51.5405403
+            ],
+            [
+              0.0563194,
+              51.5406895
+            ],
+            [
+              0.0566839,
+              51.5408423
+            ],
+            [
+              0.0573124,
+              51.5411316
+            ],
+            [
+              0.0579685,
+              51.5414345
+            ],
+            [
+              0.0585113,
+              51.5417064
+            ],
+            [
+              0.0587426,
+              51.5418445
+            ],
+            [
+              0.0589664,
+              51.5419858
+            ],
+            [
+              0.059157,
+              51.5421257
+            ],
+            [
+              0.0593268,
+              51.5422675
+            ],
+            [
+              0.0594888,
+              51.5424137
+            ],
+            [
+              0.059639,
+              51.5425614
+            ],
+            [
+              0.0600537,
+              51.5429769
+            ],
+            [
+              0.0602573,
+              51.5431659
+            ],
+            [
+              0.0605833,
+              51.5434308
+            ],
+            [
+              0.0609278,
+              51.5436839
+            ],
+            [
+              0.0614443,
+              51.5439485
+            ],
+            [
+              0.061834,
+              51.5441184
+            ],
+            [
+              0.0622295,
+              51.5442618
+            ],
+            [
+              0.0626882,
+              51.5444012
+            ],
+            [
+              0.0631504,
+              51.5445054
+            ],
+            [
+              0.0635694,
+              51.5445827
+            ],
+            [
+              0.0640027,
+              51.5446403
+            ],
+            [
+              0.0643578,
+              51.5446711
+            ],
+            [
+              0.0646828,
+              51.5446869
+            ],
+            [
+              0.0650206,
+              51.5446925
+            ],
+            [
+              0.0653813,
+              51.544677
+            ],
+            [
+              0.0657372,
+              51.5446506
+            ],
+            [
+              0.0660495,
+              51.5446124
+            ],
+            [
+              0.0663386,
+              51.5445669
+            ],
+            [
+              0.0666419,
+              51.5445067
+            ],
+            [
+              0.0669902,
+              51.5444285
+            ],
+            [
+              0.0672572,
+              51.5443566
+            ],
+            [
+              0.0675764,
+              51.54427
+            ],
+            [
+              0.0681877,
+              51.5441283
+            ],
+            [
+              0.068484,
+              51.5440633
+            ],
+            [
+              0.0690161,
+              51.5439508
+            ]
+          ]
+        },
+        "id": "way/22758627"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22758633",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0132917,
+              51.5246039
+            ],
+            [
+              -0.0127806,
+              51.524649
+            ],
+            [
+              -0.0123998,
+              51.524688
+            ],
+            [
+              -0.0115318,
+              51.5247889
+            ],
+            [
+              -0.0105893,
+              51.5249117
+            ],
+            [
+              -0.0100091,
+              51.5249901
+            ],
+            [
+              -0.0094438,
+              51.5250891
+            ],
+            [
+              -0.0088293,
+              51.5252222
+            ],
+            [
+              -0.0080429,
+              51.5254009
+            ]
+          ]
+        },
+        "id": "way/22758633"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23181876",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0040652,
+              51.5282392
+            ],
+            [
+              0.0049701,
+              51.5284923
+            ]
+          ]
+        },
+        "id": "way/23181876"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23181880",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0049701,
+              51.5284923
+            ],
+            [
+              0.0052057,
+              51.5285558
+            ],
+            [
+              0.0060324,
+              51.5287463
+            ],
+            [
+              0.0068251,
+              51.5289288
+            ],
+            [
+              0.007501,
+              51.5290766
+            ],
+            [
+              0.0100914,
+              51.5296594
+            ]
+          ]
+        },
+        "id": "way/23181880"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23517273",
+          "branch": "Ealing Broadway;Uxbridge",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2886253,
+              51.5151313
+            ],
+            [
+              -0.2882503,
+              51.5147974
+            ],
+            [
+              -0.2881568,
+              51.5147071
+            ]
+          ]
+        },
+        "id": "way/23517273"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23649555",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2171969,
+              51.553696
+            ],
+            [
+              0.2188012,
+              51.5540389
+            ],
+            [
+              0.2196498,
+              51.5542054
+            ],
+            [
+              0.2202861,
+              51.5543253
+            ],
+            [
+              0.2210831,
+              51.5544747
+            ],
+            [
+              0.2217038,
+              51.5546001
+            ],
+            [
+              0.2244926,
+              51.5552048
+            ],
+            [
+              0.2254522,
+              51.5554094
+            ],
+            [
+              0.2263914,
+              51.5556264
+            ],
+            [
+              0.2273274,
+              51.5558609
+            ],
+            [
+              0.2282505,
+              51.5561157
+            ],
+            [
+              0.2291343,
+              51.5563871
+            ],
+            [
+              0.2297719,
+              51.5565868
+            ],
+            [
+              0.2306177,
+              51.5568592
+            ],
+            [
+              0.2310984,
+              51.5570246
+            ],
+            [
+              0.2315711,
+              51.5572004
+            ],
+            [
+              0.2326178,
+              51.5576073
+            ],
+            [
+              0.2331592,
+              51.5578166
+            ],
+            [
+              0.2336239,
+              51.5579827
+            ],
+            [
+              0.2338399,
+              51.5580554
+            ],
+            [
+              0.234077,
+              51.5581321
+            ],
+            [
+              0.2345255,
+              51.5582701
+            ],
+            [
+              0.2349874,
+              51.5584006
+            ],
+            [
+              0.2354565,
+              51.5585201
+            ],
+            [
+              0.235585,
+              51.5585474
+            ]
+          ]
+        },
+        "id": "way/23649555"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23649831",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1871148,
+              51.5477973
+            ],
+            [
+              0.1873857,
+              51.5478456
+            ]
+          ]
+        },
+        "id": "way/23649831"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23649835",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1873857,
+              51.5478456
+            ],
+            [
+              0.1930117,
+              51.5487887
+            ],
+            [
+              0.193475,
+              51.5488708
+            ],
+            [
+              0.1939354,
+              51.5489559
+            ],
+            [
+              0.1943963,
+              51.5490468
+            ],
+            [
+              0.1948532,
+              51.5491399
+            ]
+          ]
+        },
+        "id": "way/23649835"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/38176895",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.169257,
+              51.4940298
+            ],
+            [
+              -0.168414,
+              51.4939878
+            ],
+            [
+              -0.1676741,
+              51.4939611
+            ]
+          ]
+        },
+        "id": "way/38176895"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47636918",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1277885,
+              51.5404068
+            ],
+            [
+              0.1287812,
+              51.5404615
+            ],
+            [
+              0.130809,
+              51.5405585
+            ],
+            [
+              0.131708,
+              51.540607
+            ],
+            [
+              0.1323713,
+              51.5406505
+            ],
+            [
+              0.1372198,
+              51.54097
+            ],
+            [
+              0.1400203,
+              51.5411536
+            ],
+            [
+              0.140977,
+              51.5412184
+            ],
+            [
+              0.1419341,
+              51.5412951
+            ],
+            [
+              0.1436266,
+              51.5414387
+            ],
+            [
+              0.1450297,
+              51.541556
+            ],
+            [
+              0.145408,
+              51.5415876
+            ],
+            [
+              0.1458656,
+              51.5416173
+            ],
+            [
+              0.146783,
+              51.5416683
+            ],
+            [
+              0.1476229,
+              51.5417089
+            ]
+          ]
+        },
+        "id": "way/47636918"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47642819",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2368466,
+              51.5587848
+            ],
+            [
+              0.237268,
+              51.5588588
+            ]
+          ]
+        },
+        "id": "way/47642819"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47645113",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102770",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.237268,
+              51.5588588
+            ],
+            [
+              0.2378293,
+              51.5589547
+            ],
+            [
+              0.2382162,
+              51.5590081
+            ],
+            [
+              0.2386141,
+              51.5590556
+            ],
+            [
+              0.2393925,
+              51.5591285
+            ]
+          ]
+        },
+        "id": "way/47645113"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47985030",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0770276,
+              51.5415987
+            ],
+            [
+              0.077858,
+              51.5412002
+            ],
+            [
+              0.07817,
+              51.5410559
+            ],
+            [
+              0.0786023,
+              51.5408624
+            ],
+            [
+              0.0790292,
+              51.5406645
+            ],
+            [
+              0.0791937,
+              51.5405863
+            ],
+            [
+              0.0795578,
+              51.5404059
+            ],
+            [
+              0.0797194,
+              51.5403241
+            ],
+            [
+              0.0809226,
+              51.5397036
+            ]
+          ]
+        },
+        "id": "way/47985030"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/63429432",
+          "electrified": "rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "photograph",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0809226,
+              51.5397036
+            ],
+            [
+              0.0810967,
+              51.5396162
+            ]
+          ]
+        },
+        "id": "way/63429432"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/109361530",
+          "branch": "Ealing Broadway",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line (Ealing Broadway Branch)",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2750388,
+              51.4980215
+            ],
+            [
+              -0.2745184,
+              51.4978013
+            ],
+            [
+              -0.2738916,
+              51.4975257
+            ],
+            [
+              -0.2736603,
+              51.4974104
+            ],
+            [
+              -0.2733867,
+              51.4972614
+            ],
+            [
+              -0.2730955,
+              51.4970948
+            ],
+            [
+              -0.2729649,
+              51.4970089
+            ],
+            [
+              -0.2727646,
+              51.4968687
+            ],
+            [
+              -0.2725749,
+              51.4967263
+            ],
+            [
+              -0.2721043,
+              51.4963366
+            ],
+            [
+              -0.2718059,
+              51.496097
+            ],
+            [
+              -0.2715217,
+              51.4958842
+            ],
+            [
+              -0.2712596,
+              51.4957198
+            ],
+            [
+              -0.2709816,
+              51.4955654
+            ],
+            [
+              -0.2707937,
+              51.4954672
+            ],
+            [
+              -0.2705721,
+              51.4953646
+            ],
+            [
+              -0.2703843,
+              51.4952831
+            ],
+            [
+              -0.2701292,
+              51.495184
+            ],
+            [
+              -0.2698489,
+              51.4950832
+            ],
+            [
+              -0.2693548,
+              51.4949326
+            ],
+            [
+              -0.2688537,
+              51.4948019
+            ],
+            [
+              -0.268605,
+              51.4947461
+            ],
+            [
+              -0.2683723,
+              51.4946998
+            ],
+            [
+              -0.2681423,
+              51.4946603
+            ],
+            [
+              -0.2678361,
+              51.4946131
+            ],
+            [
+              -0.2675458,
+              51.4945798
+            ],
+            [
+              -0.2673186,
+              51.4945579
+            ],
+            [
+              -0.2670181,
+              51.4945369
+            ]
+          ]
+        },
+        "id": "way/109361530"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110301655",
+          "cutting": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1532256,
+              51.4919617
+            ],
+            [
+              -0.1526137,
+              51.4919748
+            ]
+          ]
+        },
+        "id": "way/110301655"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110301657",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1632849,
+              51.4937711
+            ],
+            [
+              -0.1625957,
+              51.4936988
+            ],
+            [
+              -0.1619532,
+              51.4936313
+            ],
+            [
+              -0.1613586,
+              51.4935663
+            ],
+            [
+              -0.1608573,
+              51.4934959
+            ],
+            [
+              -0.1595013,
+              51.4932032
+            ],
+            [
+              -0.1578328,
+              51.492738
+            ],
+            [
+              -0.1571753,
+              51.4925544
+            ],
+            [
+              -0.1561275,
+              51.4922957
+            ],
+            [
+              -0.1560365,
+              51.4922737
+            ]
+          ]
+        },
+        "id": "way/110301657"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110301666",
+          "cutting": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1638576,
+              51.493803
+            ],
+            [
+              -0.1632849,
+              51.4937711
+            ]
+          ]
+        },
+        "id": "way/110301666"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110301671",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-4",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1851894,
+              51.4949622
+            ],
+            [
+              -0.1847043,
+              51.494868
+            ],
+            [
+              -0.1840968,
+              51.4947546
+            ],
+            [
+              -0.1830479,
+              51.4945368
+            ],
+            [
+              -0.1825919,
+              51.4944434
+            ],
+            [
+              -0.1819938,
+              51.4943048
+            ],
+            [
+              -0.1816264,
+              51.4941741
+            ],
+            [
+              -0.1810462,
+              51.4940093
+            ],
+            [
+              -0.1806947,
+              51.4939193
+            ],
+            [
+              -0.1801751,
+              51.4937979
+            ],
+            [
+              -0.1796913,
+              51.4937514
+            ],
+            [
+              -0.1791953,
+              51.4937683
+            ],
+            [
+              -0.1788595,
+              51.4937907
+            ],
+            [
+              -0.1753619,
+              51.4941053
+            ],
+            [
+              -0.1748883,
+              51.4941326
+            ],
+            [
+              -0.1746164,
+              51.4941459
+            ],
+            [
+              -0.1743494,
+              51.4941588
+            ],
+            [
+              -0.1737493,
+              51.4941979
+            ]
+          ]
+        },
+        "id": "way/110301671"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110301674",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1526137,
+              51.4919748
+            ],
+            [
+              -0.152275,
+              51.4919872
+            ],
+            [
+              -0.1520042,
+              51.4920105
+            ],
+            [
+              -0.1517478,
+              51.4920398
+            ],
+            [
+              -0.1515216,
+              51.4920732
+            ],
+            [
+              -0.1512627,
+              51.4921253
+            ],
+            [
+              -0.1510287,
+              51.4921841
+            ],
+            [
+              -0.1507292,
+              51.4922699
+            ],
+            [
+              -0.1503361,
+              51.4924062
+            ]
+          ]
+        },
+        "id": "way/110301674"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302871",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1560365,
+              51.4922737
+            ],
+            [
+              -0.1557832,
+              51.4922225
+            ],
+            [
+              -0.1555475,
+              51.4921741
+            ],
+            [
+              -0.1552891,
+              51.492128
+            ],
+            [
+              -0.1550376,
+              51.4920853
+            ]
+          ]
+        },
+        "id": "way/110302871"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302872",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1550376,
+              51.4920853
+            ],
+            [
+              -0.1547403,
+              51.4920339
+            ],
+            [
+              -0.1544484,
+              51.4919939
+            ],
+            [
+              -0.1542394,
+              51.4919739
+            ],
+            [
+              -0.1540279,
+              51.4919643
+            ],
+            [
+              -0.1538151,
+              51.4919605
+            ],
+            [
+              -0.1532256,
+              51.4919617
+            ]
+          ]
+        },
+        "id": "way/110302872"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302873",
+          "cutting": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1503361,
+              51.4924062
+            ],
+            [
+              -0.1500993,
+              51.4924963
+            ]
+          ]
+        },
+        "id": "way/110302873"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302874",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1674573,
+              51.4939516
+            ],
+            [
+              -0.1672662,
+              51.4939324
+            ],
+            [
+              -0.1638576,
+              51.493803
+            ]
+          ]
+        },
+        "id": "way/110302874"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302875",
+          "electrified": "rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "750"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1500993,
+              51.4924963
+            ],
+            [
+              -0.1495105,
+              51.4927113
+            ],
+            [
+              -0.1491511,
+              51.4928508
+            ],
+            [
+              -0.1489436,
+              51.4929484
+            ],
+            [
+              -0.1487264,
+              51.4930691
+            ],
+            [
+              -0.1485362,
+              51.4931997
+            ],
+            [
+              -0.1483886,
+              51.493346
+            ],
+            [
+              -0.1481713,
+              51.4936222
+            ],
+            [
+              -0.1481603,
+              51.493637
+            ],
+            [
+              -0.1481463,
+              51.493656
+            ],
+            [
+              -0.1472706,
+              51.494756
+            ],
+            [
+              -0.1467615,
+              51.4953795
+            ],
+            [
+              -0.146615,
+              51.4955245
+            ],
+            [
+              -0.1464178,
+              51.4956783
+            ],
+            [
+              -0.14621,
+              51.4958045
+            ],
+            [
+              -0.1460351,
+              51.495887
+            ],
+            [
+              -0.1458858,
+              51.4959527
+            ],
+            [
+              -0.1456962,
+              51.496029
+            ],
+            [
+              -0.1455279,
+              51.4960906
+            ],
+            [
+              -0.1453237,
+              51.4961572
+            ],
+            [
+              -0.1451159,
+              51.4962164
+            ],
+            [
+              -0.1448919,
+              51.4962682
+            ],
+            [
+              -0.1447174,
+              51.4962982
+            ]
+          ]
+        },
+        "id": "way/110302875"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/110302876",
+          "cutting": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1676741,
+              51.4939611
+            ],
+            [
+              -0.1674573,
+              51.4939516
+            ]
+          ]
+        },
+        "id": "way/110302876"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/117230548",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2295135,
+              51.4937886
+            ],
+            [
+              -0.2291548,
+              51.4937681
+            ],
+            [
+              -0.2288447,
+              51.4937555
+            ],
+            [
+              -0.2285768,
+              51.4937564
+            ],
+            [
+              -0.2283514,
+              51.4937695
+            ],
+            [
+              -0.2280584,
+              51.4937861
+            ],
+            [
+              -0.2276817,
+              51.4937965
+            ],
+            [
+              -0.2273914,
+              51.493809
+            ],
+            [
+              -0.2271839,
+              51.4938059
+            ],
+            [
+              -0.227021,
+              51.4937989
+            ],
+            [
+              -0.2268551,
+              51.4937886
+            ],
+            [
+              -0.2266582,
+              51.4937681
+            ]
+          ]
+        },
+        "id": "way/117230548"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/117230549",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "level": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2241244,
+              51.4930128
+            ],
+            [
+              -0.2240078,
+              51.4929403
+            ],
+            [
+              -0.2239057,
+              51.4928642
+            ],
+            [
+              -0.2235856,
+              51.4926056
+            ],
+            [
+              -0.2235373,
+              51.4925633
+            ],
+            [
+              -0.2234329,
+              51.4924682
+            ],
+            [
+              -0.2232241,
+              51.4922696
+            ],
+            [
+              -0.2231372,
+              51.4921864
+            ],
+            [
+              -0.2230729,
+              51.4921247
+            ],
+            [
+              -0.2229133,
+              51.4919737
+            ],
+            [
+              -0.2228491,
+              51.4919146
+            ],
+            [
+              -0.222724,
+              51.4918029
+            ],
+            [
+              -0.2226516,
+              51.4917388
+            ],
+            [
+              -0.2224952,
+              51.4915813
+            ]
+          ]
+        },
+        "id": "way/117230549"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/119760015",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "railway": "subway",
+          "relation": "102770",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2502091,
+              51.5590872
+            ],
+            [
+              0.2504116,
+              51.5590813
+            ],
+            [
+              0.2507328,
+              51.5590719
+            ]
+          ]
+        },
+        "id": "way/119760015"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/122597776",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1486052,
+              51.5417552
+            ],
+            [
+              0.150225,
+              51.5418346
+            ],
+            [
+              0.1511818,
+              51.5418981
+            ],
+            [
+              0.1520945,
+              51.5419766
+            ],
+            [
+              0.1529893,
+              51.5420657
+            ],
+            [
+              0.1536382,
+              51.5421388
+            ],
+            [
+              0.1545323,
+              51.5422485
+            ],
+            [
+              0.1552188,
+              51.5423458
+            ],
+            [
+              0.1557214,
+              51.5424253
+            ],
+            [
+              0.1576108,
+              51.5427556
+            ],
+            [
+              0.1595405,
+              51.543098
+            ],
+            [
+              0.1600039,
+              51.5431795
+            ],
+            [
+              0.1609723,
+              51.5433513
+            ],
+            [
+              0.1626543,
+              51.5436418
+            ],
+            [
+              0.1639522,
+              51.543865
+            ],
+            [
+              0.1656236,
+              51.5441499
+            ],
+            [
+              0.1666915,
+              51.5443145
+            ],
+            [
+              0.1687369,
+              51.5446267
+            ],
+            [
+              0.1702569,
+              51.5448836
+            ],
+            [
+              0.1738857,
+              51.5455079
+            ],
+            [
+              0.1769595,
+              51.5460357
+            ],
+            [
+              0.1797824,
+              51.5465202
+            ],
+            [
+              0.1871148,
+              51.5477973
+            ]
+          ]
+        },
+        "id": "way/122597776"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536080",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "Survey of 2015-01-21",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2397912,
+              51.4947617
+            ],
+            [
+              -0.2395967,
+              51.4947327
+            ],
+            [
+              -0.2392125,
+              51.4946789
+            ],
+            [
+              -0.2388427,
+              51.4946206
+            ],
+            [
+              -0.2379675,
+              51.4944686
+            ],
+            [
+              -0.2375473,
+              51.4943996
+            ],
+            [
+              -0.2373366,
+              51.4943685
+            ],
+            [
+              -0.2370945,
+              51.4943375
+            ],
+            [
+              -0.2368448,
+              51.4943146
+            ],
+            [
+              -0.2364328,
+              51.494286
+            ],
+            [
+              -0.2362908,
+              51.4942741
+            ],
+            [
+              -0.235813,
+              51.4942361
+            ],
+            [
+              -0.235175,
+              51.4941868
+            ],
+            [
+              -0.2347923,
+              51.4941486
+            ],
+            [
+              -0.2345711,
+              51.49413
+            ],
+            [
+              -0.2341204,
+              51.4940841
+            ],
+            [
+              -0.2338957,
+              51.4940547
+            ],
+            [
+              -0.2334664,
+              51.4940089
+            ],
+            [
+              -0.2330728,
+              51.4939703
+            ],
+            [
+              -0.2328622,
+              51.493954
+            ],
+            [
+              -0.2326412,
+              51.4939388
+            ],
+            [
+              -0.2324045,
+              51.4939274
+            ],
+            [
+              -0.2319239,
+              51.4939123
+            ],
+            [
+              -0.2314097,
+              51.4939007
+            ],
+            [
+              -0.2311058,
+              51.4938926
+            ],
+            [
+              -0.2303994,
+              51.4938464
+            ],
+            [
+              -0.2301576,
+              51.4938287
+            ],
+            [
+              -0.2297172,
+              51.4938011
+            ],
+            [
+              -0.2295135,
+              51.4937886
+            ]
+          ]
+        },
+        "id": "way/137536080"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536082",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "Survey of 2015-01-21",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2481988,
+              51.4951373
+            ],
+            [
+              -0.2475053,
+              51.495118
+            ],
+            [
+              -0.2473426,
+              51.4951138
+            ],
+            [
+              -0.2470856,
+              51.4951032
+            ],
+            [
+              -0.2468282,
+              51.4950891
+            ],
+            [
+              -0.2464367,
+              51.4950625
+            ],
+            [
+              -0.2454748,
+              51.4949981
+            ],
+            [
+              -0.2453022,
+              51.49499
+            ],
+            [
+              -0.2449631,
+              51.4949804
+            ],
+            [
+              -0.2446574,
+              51.4949723
+            ],
+            [
+              -0.2442345,
+              51.4949695
+            ],
+            [
+              -0.2437942,
+              51.4949825
+            ],
+            [
+              -0.243322,
+              51.4949957
+            ],
+            [
+              -0.2428467,
+              51.4949951
+            ],
+            [
+              -0.2423176,
+              51.4949798
+            ],
+            [
+              -0.2416813,
+              51.4949444
+            ],
+            [
+              -0.2410475,
+              51.4948976
+            ],
+            [
+              -0.2404439,
+              51.494841
+            ],
+            [
+              -0.2397912,
+              51.4947617
+            ]
+          ]
+        },
+        "id": "way/137536082"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536084",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "height": "3.2 m",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2603197,
+              51.4951254
+            ],
+            [
+              -0.2601376,
+              51.4951332
+            ]
+          ]
+        },
+        "id": "way/137536084"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536085",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2554311,
+              51.495206
+            ],
+            [
+              -0.2551452,
+              51.4952188
+            ]
+          ]
+        },
+        "id": "way/137536085"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536090",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2613973,
+              51.4950357
+            ],
+            [
+              -0.2609879,
+              51.4950771
+            ],
+            [
+              -0.2603197,
+              51.4951254
+            ]
+          ]
+        },
+        "id": "way/137536090"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536094",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2601376,
+              51.4951332
+            ],
+            [
+              -0.2591845,
+              51.4951801
+            ],
+            [
+              -0.2588106,
+              51.4951971
+            ],
+            [
+              -0.258473,
+              51.4952089
+            ],
+            [
+              -0.2577012,
+              51.4952246
+            ],
+            [
+              -0.2570683,
+              51.4952156
+            ],
+            [
+              -0.2562256,
+              51.4951868
+            ],
+            [
+              -0.2560076,
+              51.4951865
+            ],
+            [
+              -0.255846,
+              51.4951897
+            ],
+            [
+              -0.2556816,
+              51.4951941
+            ],
+            [
+              -0.2554311,
+              51.495206
+            ]
+          ]
+        },
+        "id": "way/137536094"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536095",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "level": "1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2551452,
+              51.4952188
+            ],
+            [
+              -0.2547844,
+              51.4952309
+            ],
+            [
+              -0.2544167,
+              51.4952391
+            ],
+            [
+              -0.2527762,
+              51.4952338
+            ],
+            [
+              -0.2522047,
+              51.4952417
+            ],
+            [
+              -0.2516315,
+              51.4952467
+            ],
+            [
+              -0.2510596,
+              51.4952417
+            ],
+            [
+              -0.2502833,
+              51.4952346
+            ]
+          ]
+        },
+        "id": "way/137536095"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137536101",
+          "branch": "Ealing Broadway",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line (Ealing Broadway Branch)",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2651133,
+              51.4946173
+            ],
+            [
+              -0.2638467,
+              51.494757
+            ],
+            [
+              -0.2627779,
+              51.4948796
+            ],
+            [
+              -0.2613973,
+              51.4950357
+            ]
+          ]
+        },
+        "id": "way/137536101"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137548815",
+          "branch": "Ealing Broadway",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line (Ealing Broadway Branch)",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2789153,
+              51.5015348
+            ],
+            [
+              -0.2785556,
+              51.5008772
+            ],
+            [
+              -0.2784228,
+              51.5006437
+            ],
+            [
+              -0.2783068,
+              51.5004561
+            ],
+            [
+              -0.2782177,
+              51.5003163
+            ],
+            [
+              -0.2780518,
+              51.5001046
+            ],
+            [
+              -0.277839,
+              51.4998731
+            ],
+            [
+              -0.2776182,
+              51.4996744
+            ],
+            [
+              -0.277352,
+              51.4994628
+            ],
+            [
+              -0.2770452,
+              51.4992538
+            ],
+            [
+              -0.2765469,
+              51.49891
+            ],
+            [
+              -0.2759338,
+              51.4985082
+            ],
+            [
+              -0.2756388,
+              51.4983278
+            ],
+            [
+              -0.2753581,
+              51.4981719
+            ],
+            [
+              -0.2752096,
+              51.4980986
+            ],
+            [
+              -0.2750388,
+              51.4980215
+            ]
+          ]
+        },
+        "id": "way/137548815"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137548819",
+          "branch": "Ealing Broadway;Uxbridge",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "GPX + Yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2855629,
+              51.5059587
+            ],
+            [
+              -0.2850535,
+              51.5056812
+            ],
+            [
+              -0.2846818,
+              51.5055046
+            ],
+            [
+              -0.2842788,
+              51.505293
+            ],
+            [
+              -0.283866,
+              51.5050752
+            ],
+            [
+              -0.2834316,
+              51.5048237
+            ],
+            [
+              -0.2830342,
+              51.5045829
+            ],
+            [
+              -0.2825067,
+              51.5042659
+            ],
+            [
+              -0.2821036,
+              51.5040314
+            ],
+            [
+              -0.2816684,
+              51.5037925
+            ]
+          ]
+        },
+        "id": "way/137548819"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137548820",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2813665,
+              51.5036326
+            ],
+            [
+              -0.2806042,
+              51.503259
+            ],
+            [
+              -0.2802832,
+              51.5031001
+            ]
+          ]
+        },
+        "id": "way/137548820"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/137554376",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2974008,
+              51.5152206
+            ],
+            [
+              -0.2969608,
+              51.5152231
+            ],
+            [
+              -0.2960795,
+              51.5152385
+            ],
+            [
+              -0.2952999,
+              51.5152533
+            ],
+            [
+              -0.2951378,
+              51.5152655
+            ],
+            [
+              -0.2950221,
+              51.5152723
+            ],
+            [
+              -0.2948852,
+              51.5152851
+            ],
+            [
+              -0.2947312,
+              51.515305
+            ],
+            [
+              -0.2945888,
+              51.5153238
+            ],
+            [
+              -0.2944326,
+              51.5153505
+            ],
+            [
+              -0.2942857,
+              51.5153805
+            ],
+            [
+              -0.2941871,
+              51.5153998
+            ],
+            [
+              -0.2940971,
+              51.515418
+            ],
+            [
+              -0.2939747,
+              51.51545
+            ],
+            [
+              -0.2938423,
+              51.5154856
+            ],
+            [
+              -0.2934929,
+              51.5155904
+            ],
+            [
+              -0.2931421,
+              51.515698
+            ],
+            [
+              -0.2929029,
+              51.5157629
+            ],
+            [
+              -0.2927407,
+              51.5158039
+            ],
+            [
+              -0.2926304,
+              51.5158292
+            ],
+            [
+              -0.2925407,
+              51.515847
+            ],
+            [
+              -0.2924635,
+              51.5158603
+            ],
+            [
+              -0.2923209,
+              51.515883
+            ],
+            [
+              -0.2921872,
+              51.5158997
+            ],
+            [
+              -0.2920393,
+              51.5159192
+            ],
+            [
+              -0.2918802,
+              51.5159335
+            ],
+            [
+              -0.2917462,
+              51.51594
+            ],
+            [
+              -0.2915883,
+              51.5159454
+            ],
+            [
+              -0.2914591,
+              51.5159446
+            ],
+            [
+              -0.2913211,
+              51.5159453
+            ],
+            [
+              -0.2911795,
+              51.5159411
+            ],
+            [
+              -0.290946,
+              51.5159279
+            ],
+            [
+              -0.2908004,
+              51.5159191
+            ],
+            [
+              -0.2906728,
+              51.5159099
+            ],
+            [
+              -0.2905083,
+              51.5158919
+            ],
+            [
+              -0.2903152,
+              51.515865
+            ],
+            [
+              -0.2901095,
+              51.5158273
+            ],
+            [
+              -0.2898762,
+              51.5157705
+            ],
+            [
+              -0.2896116,
+              51.5156888
+            ],
+            [
+              -0.2893303,
+              51.5155771
+            ],
+            [
+              -0.2890872,
+              51.5154496
+            ],
+            [
+              -0.2888953,
+              51.5153381
+            ],
+            [
+              -0.2886253,
+              51.5151313
+            ]
+          ]
+        },
+        "id": "way/137554376"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140332877",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1432359,
+              51.4963742
+            ],
+            [
+              -0.1431188,
+              51.4963848
+            ],
+            [
+              -0.142996,
+              51.4963991
+            ],
+            [
+              -0.1423022,
+              51.4965199
+            ],
+            [
+              -0.1415213,
+              51.4966727
+            ],
+            [
+              -0.1409544,
+              51.4968194
+            ],
+            [
+              -0.1402203,
+              51.4970904
+            ],
+            [
+              -0.1399551,
+              51.497176
+            ],
+            [
+              -0.1397045,
+              51.4972477
+            ],
+            [
+              -0.1393311,
+              51.4973681
+            ],
+            [
+              -0.1391757,
+              51.4974021
+            ],
+            [
+              -0.1390309,
+              51.4974362
+            ],
+            [
+              -0.138868,
+              51.4974753
+            ],
+            [
+              -0.1387089,
+              51.4975156
+            ]
+          ]
+        },
+        "id": "way/140332877"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140332880",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1433167,
+              51.4963685
+            ],
+            [
+              -0.1432359,
+              51.4963742
+            ]
+          ]
+        },
+        "id": "way/140332880"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140332881",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1447174,
+              51.4962982
+            ],
+            [
+              -0.1446004,
+              51.496316
+            ]
+          ]
+        },
+        "id": "way/140332881"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140332884",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1446004,
+              51.496316
+            ],
+            [
+              -0.1444662,
+              51.4963298
+            ],
+            [
+              -0.1442852,
+              51.4963462
+            ],
+            [
+              -0.1440984,
+              51.4963553
+            ],
+            [
+              -0.1436195,
+              51.4963566
+            ],
+            [
+              -0.143453,
+              51.4963599
+            ],
+            [
+              -0.1433167,
+              51.4963685
+            ]
+          ]
+        },
+        "id": "way/140332884"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140343429",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1387089,
+              51.4975156
+            ],
+            [
+              -0.1385791,
+              51.4975538
+            ]
+          ]
+        },
+        "id": "way/140343429"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/145794985",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "service": "crossover",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1956328,
+              51.4905463
+            ],
+            [
+              -0.1953885,
+              51.4906865
+            ],
+            [
+              -0.1951236,
+              51.4908422
+            ]
+          ]
+        },
+        "id": "way/145794985"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/145794990",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1933507,
+              51.4920333
+            ],
+            [
+              -0.1930047,
+              51.4922838
+            ],
+            [
+              -0.1925293,
+              51.4926302
+            ]
+          ]
+        },
+        "id": "way/145794990"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/145794991",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.191117,
+              51.4935963
+            ],
+            [
+              -0.1903513,
+              51.494064
+            ]
+          ]
+        },
+        "id": "way/145794991"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/145794995",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1958319,
+              51.4904318
+            ],
+            [
+              -0.1956328,
+              51.4905463
+            ]
+          ]
+        },
+        "id": "way/145794995"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/152107573",
+          "layer": "-2",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "subway": "yes",
+          "tunnel": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1040507,
+              51.5115532
+            ],
+            [
+              -0.1038827,
+              51.5116025
+            ],
+            [
+              -0.1036764,
+              51.5116602
+            ],
+            [
+              -0.1035628,
+              51.5116926
+            ]
+          ]
+        },
+        "id": "way/152107573"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/153173953",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2017805,
+              51.490994
+            ],
+            [
+              -0.2016112,
+              51.4909184
+            ],
+            [
+              -0.2015204,
+              51.4908646
+            ],
+            [
+              -0.2013601,
+              51.49077
+            ],
+            [
+              -0.2011729,
+              51.4906517
+            ],
+            [
+              -0.200951,
+              51.4905188
+            ]
+          ]
+        },
+        "id": "way/153173953"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/154295790",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1737493,
+              51.4941979
+            ],
+            [
+              -0.1720171,
+              51.4941231
+            ],
+            [
+              -0.1716032,
+              51.4941042
+            ],
+            [
+              -0.17089,
+              51.4940921
+            ],
+            [
+              -0.1698603,
+              51.494054
+            ],
+            [
+              -0.169257,
+              51.4940298
+            ]
+          ]
+        },
+        "id": "way/154295790"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/157242130",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1892952,
+              51.4945736
+            ],
+            [
+              -0.1884815,
+              51.4948962
+            ]
+          ]
+        },
+        "id": "way/157242130"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/159826204",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2994824,
+              51.5152218
+            ],
+            [
+              -0.2987802,
+              51.5152195
+            ],
+            [
+              -0.2974008,
+              51.5152206
+            ]
+          ]
+        },
+        "id": "way/159826204"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160116239",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0207648,
+              51.5249674
+            ],
+            [
+              -0.0206234,
+              51.5248914
+            ],
+            [
+              -0.0203972,
+              51.5247996
+            ],
+            [
+              -0.0202218,
+              51.5247341
+            ],
+            [
+              -0.0200331,
+              51.5246856
+            ],
+            [
+              -0.0197387,
+              51.5246328
+            ],
+            [
+              -0.019272,
+              51.5245995
+            ],
+            [
+              -0.0184861,
+              51.5245777
+            ],
+            [
+              -0.0179745,
+              51.5245733
+            ],
+            [
+              -0.0170782,
+              51.5245701
+            ],
+            [
+              -0.0159803,
+              51.5245345
+            ],
+            [
+              -0.0153655,
+              51.5245158
+            ],
+            [
+              -0.0146962,
+              51.524506
+            ],
+            [
+              -0.0144443,
+              51.5245116
+            ],
+            [
+              -0.0141917,
+              51.5245258
+            ]
+          ]
+        },
+        "id": "way/160116239"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160473247",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "operator": "London Underground",
+          "railway": "subway",
+          "start_date": "1884-10-06",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0754317,
+              51.5133864
+            ],
+            [
+              -0.0754045,
+              51.5134742
+            ],
+            [
+              -0.0753485,
+              51.5135956
+            ],
+            [
+              -0.0753275,
+              51.5136416
+            ],
+            [
+              -0.0753178,
+              51.5136628
+            ],
+            [
+              -0.0752421,
+              51.5137749
+            ],
+            [
+              -0.075143,
+              51.5139039
+            ],
+            [
+              -0.0750206,
+              51.5140218
+            ],
+            [
+              -0.0749103,
+              51.5141024
+            ],
+            [
+              -0.0747552,
+              51.5141776
+            ],
+            [
+              -0.0745353,
+              51.5142643
+            ],
+            [
+              -0.0740182,
+              51.5144394
+            ],
+            [
+              -0.0736923,
+              51.5146055
+            ]
+          ]
+        },
+        "id": "way/160473247"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160477998",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1030978,
+              51.5117862
+            ],
+            [
+              -0.1025498,
+              51.5119464
+            ],
+            [
+              -0.1022681,
+              51.5120056
+            ],
+            [
+              -0.1020422,
+              51.5120498
+            ],
+            [
+              -0.1019203,
+              51.5120679
+            ],
+            [
+              -0.1016948,
+              51.5120786
+            ],
+            [
+              -0.1014622,
+              51.5120745
+            ],
+            [
+              -0.100916,
+              51.5120414
+            ],
+            [
+              -0.0989414,
+              51.5119219
+            ],
+            [
+              -0.0983237,
+              51.511882
+            ],
+            [
+              -0.0973121,
+              51.5118414
+            ],
+            [
+              -0.0970253,
+              51.5118403
+            ],
+            [
+              -0.0963783,
+              51.5118466
+            ],
+            [
+              -0.095781,
+              51.5118962
+            ],
+            [
+              -0.0952257,
+              51.511929
+            ],
+            [
+              -0.0946785,
+              51.5119642
+            ],
+            [
+              -0.0943756,
+              51.5119725
+            ],
+            [
+              -0.094067,
+              51.5119295
+            ],
+            [
+              -0.0937645,
+              51.5118779
+            ],
+            [
+              -0.0927379,
+              51.511762
+            ],
+            [
+              -0.0921216,
+              51.5116643
+            ],
+            [
+              -0.0910277,
+              51.511462
+            ],
+            [
+              -0.0907398,
+              51.5114197
+            ],
+            [
+              -0.0905353,
+              51.5114008
+            ],
+            [
+              -0.0903232,
+              51.5113913
+            ]
+          ]
+        },
+        "id": "way/160477998"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160478002",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1148135,
+              51.510911
+            ],
+            [
+              -0.1142341,
+              51.5109925
+            ],
+            [
+              -0.113746,
+              51.5110618
+            ],
+            [
+              -0.1132938,
+              51.5111112
+            ],
+            [
+              -0.1129557,
+              51.5111368
+            ]
+          ]
+        },
+        "id": "way/160478002"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160478992",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1221088,
+              51.5076205
+            ],
+            [
+              -0.1218702,
+              51.5078355
+            ],
+            [
+              -0.1216534,
+              51.5080602
+            ],
+            [
+              -0.1214973,
+              51.5082517
+            ],
+            [
+              -0.121308,
+              51.5083976
+            ],
+            [
+              -0.1208785,
+              51.5086376
+            ],
+            [
+              -0.1204941,
+              51.5088948
+            ],
+            [
+              -0.1200543,
+              51.5091826
+            ],
+            [
+              -0.1195715,
+              51.509446
+            ],
+            [
+              -0.1189976,
+              51.5097277
+            ],
+            [
+              -0.1185383,
+              51.5098931
+            ],
+            [
+              -0.1163904,
+              51.5105492
+            ],
+            [
+              -0.1156501,
+              51.5107496
+            ],
+            [
+              -0.1152692,
+              51.5108297
+            ],
+            [
+              -0.1148135,
+              51.510911
+            ]
+          ]
+        },
+        "id": "way/160478992"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/160478994",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.125921,
+              51.5008898
+            ],
+            [
+              -0.1252269,
+              51.5012109
+            ],
+            [
+              -0.1247269,
+              51.5015014
+            ],
+            [
+              -0.1244316,
+              51.501734
+            ],
+            [
+              -0.1242202,
+              51.501947
+            ],
+            [
+              -0.1240757,
+              51.5021861
+            ],
+            [
+              -0.1239444,
+              51.5025487
+            ],
+            [
+              -0.1234937,
+              51.5041583
+            ],
+            [
+              -0.1233162,
+              51.5048563
+            ],
+            [
+              -0.1231603,
+              51.5053746
+            ],
+            [
+              -0.1229762,
+              51.5059697
+            ],
+            [
+              -0.1228544,
+              51.5063936
+            ],
+            [
+              -0.1225766,
+              51.507014
+            ],
+            [
+              -0.1223598,
+              51.5072951
+            ],
+            [
+              -0.1221088,
+              51.5076205
+            ]
+          ]
+        },
+        "id": "way/160478994"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162249080",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "layer": "-3",
+          "level": "-3",
+          "line": "District;Hammersmith & City",
+          "loading_gauge": "subsurface",
+          "name": "District and Hammersmith & City Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0736923,
+              51.5146055
+            ],
+            [
+              -0.0719752,
+              51.515243
+            ]
+          ]
+        },
+        "id": "way/162249080"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162252562",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District;Hammersmith & City",
+          "name": "Hammersmith & City and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0603141,
+              51.5197597
+            ],
+            [
+              -0.0600281,
+              51.5197885
+            ]
+          ]
+        },
+        "id": "way/162252562"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162252563",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "level": "-3",
+          "line": "District;Hammersmith & City",
+          "loading_gauge": "subsurface",
+          "name": "District and Hammersmith & City Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0719752,
+              51.515243
+            ],
+            [
+              -0.0717602,
+              51.5153155
+            ],
+            [
+              -0.0708317,
+              51.5156316
+            ],
+            [
+              -0.0707628,
+              51.515655
+            ],
+            [
+              -0.0702393,
+              51.5158337
+            ],
+            [
+              -0.0699181,
+              51.5159499
+            ],
+            [
+              -0.0697381,
+              51.5160271
+            ],
+            [
+              -0.0693535,
+              51.5162216
+            ],
+            [
+              -0.0692806,
+              51.5162571
+            ],
+            [
+              -0.0675782,
+              51.5170645
+            ],
+            [
+              -0.0667009,
+              51.5173595
+            ],
+            [
+              -0.0650373,
+              51.5179188
+            ],
+            [
+              -0.0633722,
+              51.5184283
+            ],
+            [
+              -0.0631195,
+              51.518545
+            ],
+            [
+              -0.0628378,
+              51.5188134
+            ]
+          ]
+        },
+        "id": "way/162252563"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162252565",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District;Hammersmith & City",
+          "name": "Hammersmith & City and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0628378,
+              51.5188134
+            ],
+            [
+              -0.0625894,
+              51.5189809
+            ],
+            [
+              -0.0622551,
+              51.5191657
+            ],
+            [
+              -0.0620466,
+              51.5192773
+            ],
+            [
+              -0.0619028,
+              51.5193375
+            ],
+            [
+              -0.0617838,
+              51.5193876
+            ],
+            [
+              -0.0616364,
+              51.5194428
+            ],
+            [
+              -0.0613856,
+              51.5195146
+            ],
+            [
+              -0.0611763,
+              51.5195689
+            ],
+            [
+              -0.0609839,
+              51.5196189
+            ],
+            [
+              -0.0605929,
+              51.5197164
+            ],
+            [
+              -0.0603141,
+              51.5197597
+            ]
+          ]
+        },
+        "id": "way/162252565"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162256611",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "District;Hammersmith & City",
+          "loading_gauge": "subsurface",
+          "name": "Hammersmith & City and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0583709,
+              51.5196712
+            ],
+            [
+              -0.0583554,
+              51.5196721
+            ],
+            [
+              -0.0581935,
+              51.5196524
+            ],
+            [
+              -0.057864,
+              51.5196586
+            ],
+            [
+              -0.0566344,
+              51.519924
+            ],
+            [
+              -0.0521809,
+              51.5207056
+            ],
+            [
+              -0.0513925,
+              51.5208443
+            ],
+            [
+              -0.0467282,
+              51.5217146
+            ],
+            [
+              -0.0454445,
+              51.5219935
+            ],
+            [
+              -0.0440455,
+              51.5221751
+            ],
+            [
+              -0.0422945,
+              51.5223353
+            ],
+            [
+              -0.0409556,
+              51.5225916
+            ],
+            [
+              -0.0387539,
+              51.5233109
+            ],
+            [
+              -0.037618,
+              51.5239798
+            ],
+            [
+              -0.0374122,
+              51.5241009
+            ],
+            [
+              -0.0353384,
+              51.524877
+            ],
+            [
+              -0.0334449,
+              51.5253563
+            ],
+            [
+              -0.0318352,
+              51.5257258
+            ],
+            [
+              -0.0265272,
+              51.5267998
+            ],
+            [
+              -0.026039,
+              51.5268736
+            ],
+            [
+              -0.0257121,
+              51.5269077
+            ],
+            [
+              -0.0254295,
+              51.5269147
+            ],
+            [
+              -0.0251305,
+              51.5269124
+            ],
+            [
+              -0.0248416,
+              51.5268726
+            ]
+          ]
+        },
+        "id": "way/162256611"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162256614",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "Hammersmith & City and District Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0600281,
+              51.5197885
+            ],
+            [
+              -0.0597672,
+              51.5198054
+            ],
+            [
+              -0.0595227,
+              51.5198063
+            ],
+            [
+              -0.0593181,
+              51.5197925
+            ],
+            [
+              -0.0590847,
+              51.5197673
+            ],
+            [
+              -0.0588746,
+              51.519744
+            ],
+            [
+              -0.0586472,
+              51.5197045
+            ],
+            [
+              -0.0583709,
+              51.5196712
+            ]
+          ]
+        },
+        "id": "way/162256614"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162256630",
+          "layer": "-2",
+          "level": "-2",
+          "name": "Mile End - District and Hammersmith & City lines - Eastbound - Platform 3",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "ref": "3",
+          "tunnel": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0344419,
+              51.525121
+            ],
+            [
+              -0.0344338,
+              51.525123
+            ],
+            [
+              -0.0334538,
+              51.525371
+            ],
+            [
+              -0.033108,
+              51.5254445
+            ],
+            [
+              -0.0319878,
+              51.5256828
+            ]
+          ]
+        },
+        "id": "way/162256630"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162269822",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "railway": "subway",
+          "relation": "102770",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2476257,
+              51.5591222
+            ],
+            [
+              0.2482217,
+              51.5591191
+            ],
+            [
+              0.2493461,
+              51.5591053
+            ],
+            [
+              0.2495651,
+              51.5591007
+            ],
+            [
+              0.2502091,
+              51.5590872
+            ]
+          ]
+        },
+        "id": "way/162269822"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/171499546",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2131385,
+              51.4903266
+            ],
+            [
+              -0.2129103,
+              51.4902999
+            ],
+            [
+              -0.2121594,
+              51.4902089
+            ],
+            [
+              -0.2117935,
+              51.4901665
+            ],
+            [
+              -0.2109636,
+              51.4900919
+            ],
+            [
+              -0.2103411,
+              51.4900689
+            ],
+            [
+              -0.2098059,
+              51.4900776
+            ],
+            [
+              -0.2091408,
+              51.4901145
+            ],
+            [
+              -0.2085467,
+              51.4901626
+            ],
+            [
+              -0.2080115,
+              51.4902161
+            ],
+            [
+              -0.2076962,
+              51.4902656
+            ],
+            [
+              -0.2068199,
+              51.490467
+            ]
+          ]
+        },
+        "id": "way/171499546"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/171499548",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1925293,
+              51.4926302
+            ],
+            [
+              -0.1921106,
+              51.4929178
+            ],
+            [
+              -0.1915587,
+              51.4932891
+            ],
+            [
+              -0.191117,
+              51.4935963
+            ]
+          ]
+        },
+        "id": "way/171499548"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/184962203",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2802832,
+              51.5031001
+            ],
+            [
+              -0.2799297,
+              51.502866
+            ],
+            [
+              -0.2797421,
+              51.5027149
+            ],
+            [
+              -0.2795634,
+              51.5025332
+            ],
+            [
+              -0.2793804,
+              51.5023306
+            ],
+            [
+              -0.2792567,
+              51.5021514
+            ],
+            [
+              -0.2790867,
+              51.5018542
+            ],
+            [
+              -0.2789153,
+              51.5015348
+            ]
+          ]
+        },
+        "id": "way/184962203"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/185317461",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1951236,
+              51.4908422
+            ],
+            [
+              -0.1946445,
+              51.4911589
+            ],
+            [
+              -0.1940345,
+              51.4915588
+            ],
+            [
+              -0.1933507,
+              51.4920333
+            ]
+          ]
+        },
+        "id": "way/185317461"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/285295108",
+          "branch": "Ealing Broadway",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line (Ealing Broadway Branch)",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2670181,
+              51.4945369
+            ],
+            [
+              -0.2667779,
+              51.4945283
+            ],
+            [
+              -0.2665401,
+              51.494525
+            ]
+          ]
+        },
+        "id": "way/285295108"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/285295109",
+          "branch": "Ealing Broadway",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "District",
+          "name": "District Line (Ealing Broadway Branch)",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2665401,
+              51.494525
+            ],
+            [
+              -0.2663473,
+              51.4945263
+            ],
+            [
+              -0.2660682,
+              51.494535
+            ],
+            [
+              -0.2657926,
+              51.4945503
+            ],
+            [
+              -0.2654839,
+              51.4945772
+            ],
+            [
+              -0.2651133,
+              51.4946173
+            ]
+          ]
+        },
+        "id": "way/285295109"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301096097",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1948532,
+              51.5491399
+            ],
+            [
+              0.1955047,
+              51.549284
+            ],
+            [
+              0.1963206,
+              51.5494329
+            ],
+            [
+              0.1982409,
+              51.5497656
+            ],
+            [
+              0.1990181,
+              51.5498999
+            ],
+            [
+              0.1994072,
+              51.549967
+            ],
+            [
+              0.1997964,
+              51.5500302
+            ],
+            [
+              0.2001218,
+              51.550075
+            ],
+            [
+              0.2004495,
+              51.550117
+            ],
+            [
+              0.2007767,
+              51.5501569
+            ],
+            [
+              0.2011042,
+              51.5502012
+            ],
+            [
+              0.2017416,
+              51.5503061
+            ],
+            [
+              0.2024505,
+              51.5504454
+            ],
+            [
+              0.2050077,
+              51.5510108
+            ],
+            [
+              0.2058907,
+              51.5512078
+            ],
+            [
+              0.2100561,
+              51.5521285
+            ],
+            [
+              0.2151982,
+              51.5532662
+            ],
+            [
+              0.2158116,
+              51.5533981
+            ],
+            [
+              0.2171969,
+              51.553696
+            ]
+          ]
+        },
+        "id": "way/301096097"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301399384",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1476229,
+              51.5417089
+            ],
+            [
+              0.1482341,
+              51.5417394
+            ]
+          ]
+        },
+        "id": "way/301399384"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301399386",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1482341,
+              51.5417394
+            ],
+            [
+              0.1486052,
+              51.5417552
+            ]
+          ]
+        },
+        "id": "way/301399386"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301406187",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1121326,
+              51.5392277
+            ],
+            [
+              0.1153597,
+              51.5394824
+            ],
+            [
+              0.1183258,
+              51.5397151
+            ],
+            [
+              0.1203842,
+              51.5398572
+            ],
+            [
+              0.1226494,
+              51.5400064
+            ],
+            [
+              0.1236088,
+              51.5400796
+            ],
+            [
+              0.1240196,
+              51.5401165
+            ],
+            [
+              0.1251787,
+              51.5402267
+            ],
+            [
+              0.1254092,
+              51.5402468
+            ],
+            [
+              0.1258149,
+              51.5402772
+            ],
+            [
+              0.1271646,
+              51.540367
+            ],
+            [
+              0.1272841,
+              51.5403746
+            ]
+          ]
+        },
+        "id": "way/301406187"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301406189",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1272841,
+              51.5403746
+            ],
+            [
+              0.1277885,
+              51.5404068
+            ]
+          ]
+        },
+        "id": "way/301406189"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/301952638",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102770",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2393925,
+              51.5591285
+            ],
+            [
+              0.23999,
+              51.5591679
+            ],
+            [
+              0.2406957,
+              51.5592161
+            ],
+            [
+              0.2413216,
+              51.5592469
+            ],
+            [
+              0.241783,
+              51.559259
+            ],
+            [
+              0.2428979,
+              51.5592546
+            ],
+            [
+              0.2431898,
+              51.5592432
+            ],
+            [
+              0.2438233,
+              51.5592245
+            ],
+            [
+              0.2446977,
+              51.5591993
+            ],
+            [
+              0.2460392,
+              51.5591566
+            ],
+            [
+              0.2467953,
+              51.559133
+            ],
+            [
+              0.2476257,
+              51.5591222
+            ]
+          ]
+        },
+        "id": "way/301952638"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/304151220",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0864768,
+              51.5378121
+            ],
+            [
+              0.0867233,
+              51.5377774
+            ],
+            [
+              0.0869701,
+              51.5377522
+            ],
+            [
+              0.0872082,
+              51.5377328
+            ],
+            [
+              0.0874446,
+              51.5377217
+            ],
+            [
+              0.0878104,
+              51.5377176
+            ],
+            [
+              0.0882045,
+              51.5377284
+            ],
+            [
+              0.0885,
+              51.5377456
+            ],
+            [
+              0.0887902,
+              51.5377685
+            ],
+            [
+              0.0914194,
+              51.5379777
+            ],
+            [
+              0.0917364,
+              51.5379993
+            ],
+            [
+              0.0920254,
+              51.5380141
+            ],
+            [
+              0.0923436,
+              51.5380244
+            ],
+            [
+              0.0926529,
+              51.5380263
+            ],
+            [
+              0.0930888,
+              51.538022
+            ],
+            [
+              0.0947608,
+              51.5379745
+            ],
+            [
+              0.0952741,
+              51.5379628
+            ],
+            [
+              0.0956019,
+              51.5379625
+            ],
+            [
+              0.0959306,
+              51.5379714
+            ],
+            [
+              0.0962563,
+              51.5379873
+            ],
+            [
+              0.0965837,
+              51.5380136
+            ],
+            [
+              0.0970789,
+              51.5380616
+            ],
+            [
+              0.0975712,
+              51.5381124
+            ],
+            [
+              0.0986524,
+              51.5382212
+            ],
+            [
+              0.0989003,
+              51.538246
+            ],
+            [
+              0.0993299,
+              51.538287
+            ],
+            [
+              0.0997597,
+              51.5383247
+            ],
+            [
+              0.1001913,
+              51.5383551
+            ],
+            [
+              0.1006226,
+              51.5383834
+            ],
+            [
+              0.1019905,
+              51.5384724
+            ],
+            [
+              0.1039997,
+              51.5386026
+            ],
+            [
+              0.1057489,
+              51.5387213
+            ],
+            [
+              0.1121326,
+              51.5392277
+            ]
+          ]
+        },
+        "id": "way/304151220"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/312096316",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0818159,
+              51.5392552
+            ],
+            [
+              0.0819078,
+              51.5392077
+            ],
+            [
+              0.0826615,
+              51.538834
+            ],
+            [
+              0.0829466,
+              51.5387099
+            ],
+            [
+              0.0832299,
+              51.5385985
+            ],
+            [
+              0.0835141,
+              51.538496
+            ],
+            [
+              0.0838186,
+              51.5383965
+            ],
+            [
+              0.0841273,
+              51.5383034
+            ],
+            [
+              0.0844192,
+              51.5382224
+            ],
+            [
+              0.0847735,
+              51.5381321
+            ],
+            [
+              0.085132,
+              51.5380507
+            ],
+            [
+              0.0854659,
+              51.5379844
+            ],
+            [
+              0.0858013,
+              51.5379228
+            ],
+            [
+              0.0861383,
+              51.5378641
+            ],
+            [
+              0.0864768,
+              51.5378121
+            ]
+          ]
+        },
+        "id": "way/312096316"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/312803598",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0141917,
+              51.5245258
+            ],
+            [
+              -0.0134897,
+              51.524585
+            ],
+            [
+              -0.0132917,
+              51.5246039
+            ]
+          ]
+        },
+        "id": "way/312803598"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/323493171",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "Survey of 2015-01-21",
+          "tunnel": "no",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2502833,
+              51.4952346
+            ],
+            [
+              -0.2499549,
+              51.495225
+            ],
+            [
+              -0.2496271,
+              51.4952185
+            ],
+            [
+              -0.2493427,
+              51.4952087
+            ],
+            [
+              -0.2490513,
+              51.4951928
+            ],
+            [
+              -0.248767,
+              51.4951759
+            ],
+            [
+              -0.2484791,
+              51.4951605
+            ],
+            [
+              -0.2481988,
+              51.4951373
+            ]
+          ]
+        },
+        "id": "way/323493171"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/323755172",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0710553,
+              51.5435309
+            ],
+            [
+              0.0714839,
+              51.543454
+            ],
+            [
+              0.0717436,
+              51.5434105
+            ]
+          ]
+        },
+        "id": "way/323755172"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/323755173",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0717436,
+              51.5434105
+            ],
+            [
+              0.0721547,
+              51.5433387
+            ],
+            [
+              0.0725255,
+              51.5432633
+            ],
+            [
+              0.0728918,
+              51.5431807
+            ],
+            [
+              0.073139,
+              51.5431174
+            ],
+            [
+              0.0733853,
+              51.543052
+            ],
+            [
+              0.0736644,
+              51.5429708
+            ],
+            [
+              0.0739648,
+              51.5428769
+            ],
+            [
+              0.0742973,
+              51.5427621
+            ],
+            [
+              0.0748727,
+              51.5425413
+            ],
+            [
+              0.0759946,
+              51.5420793
+            ],
+            [
+              0.0763918,
+              51.5419005
+            ],
+            [
+              0.0766416,
+              51.5417812
+            ],
+            [
+              0.0770276,
+              51.5415987
+            ]
+          ]
+        },
+        "id": "way/323755173"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/446363376",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0758623,
+              51.5102688
+            ],
+            [
+              -0.0757872,
+              51.5103408
+            ]
+          ]
+        },
+        "id": "way/446363376"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/446363378",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0757872,
+              51.5103408
+            ],
+            [
+              -0.0754608,
+              51.510697
+            ],
+            [
+              -0.0753046,
+              51.5111095
+            ],
+            [
+              -0.0753659,
+              51.511398
+            ],
+            [
+              -0.0755825,
+              51.5123736
+            ],
+            [
+              -0.075579,
+              51.5128571
+            ],
+            [
+              -0.0754317,
+              51.5133864
+            ]
+          ]
+        },
+        "id": "way/446363378"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/531757371",
+          "branch": "Ealing Broadway;Uxbridge",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2881994,
+              51.5106295
+            ],
+            [
+              -0.2882288,
+              51.5102305
+            ],
+            [
+              -0.2882246,
+              51.5101379
+            ]
+          ]
+        },
+        "id": "way/531757371"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/531757377",
+          "branch": "Ealing Broadway;Uxbridge",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "NPE + GPX",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2882246,
+              51.5101379
+            ],
+            [
+              -0.28821,
+              51.5099114
+            ],
+            [
+              -0.2881524,
+              51.5096243
+            ],
+            [
+              -0.2880755,
+              51.5093911
+            ],
+            [
+              -0.2879653,
+              51.5090196
+            ],
+            [
+              -0.2878625,
+              51.5087203
+            ],
+            [
+              -0.2877945,
+              51.5085228
+            ],
+            [
+              -0.2877135,
+              51.5082644
+            ],
+            [
+              -0.2876118,
+              51.5080266
+            ],
+            [
+              -0.2874563,
+              51.5077279
+            ],
+            [
+              -0.2873453,
+              51.5075689
+            ],
+            [
+              -0.2872454,
+              51.5074236
+            ],
+            [
+              -0.2871167,
+              51.5072593
+            ],
+            [
+              -0.2869829,
+              51.507099
+            ],
+            [
+              -0.2868341,
+              51.5069404
+            ],
+            [
+              -0.2866656,
+              51.5067718
+            ],
+            [
+              -0.2863951,
+              51.5065334
+            ],
+            [
+              -0.2860953,
+              51.506304
+            ],
+            [
+              -0.2858223,
+              51.5061175
+            ],
+            [
+              -0.2855629,
+              51.5059587
+            ]
+          ]
+        },
+        "id": "way/531757377"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/534849965",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1903513,
+              51.494064
+            ],
+            [
+              -0.1892952,
+              51.4945736
+            ]
+          ]
+        },
+        "id": "way/534849965"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/534849968",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1963408,
+              51.49018
+            ],
+            [
+              -0.1960477,
+              51.4903094
+            ],
+            [
+              -0.1958319,
+              51.4904318
+            ]
+          ]
+        },
+        "id": "way/534849968"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569024797",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0867277,
+              51.5108999
+            ],
+            [
+              -0.0864901,
+              51.5108294
+            ],
+            [
+              -0.0864651,
+              51.510822
+            ],
+            [
+              -0.0863195,
+              51.5107787
+            ],
+            [
+              -0.0862328,
+              51.5107569
+            ],
+            [
+              -0.0862168,
+              51.5107532
+            ],
+            [
+              -0.0861669,
+              51.510742
+            ],
+            [
+              -0.0860878,
+              51.5107262
+            ],
+            [
+              -0.0860248,
+              51.5107151
+            ],
+            [
+              -0.0859489,
+              51.5107014
+            ],
+            [
+              -0.0858255,
+              51.5106848
+            ],
+            [
+              -0.0857716,
+              51.510677
+            ],
+            [
+              -0.0856488,
+              51.5106638
+            ],
+            [
+              -0.0855121,
+              51.5106511
+            ],
+            [
+              -0.0854414,
+              51.5106468
+            ],
+            [
+              -0.0853839,
+              51.5106436
+            ],
+            [
+              -0.0853138,
+              51.5106416
+            ],
+            [
+              -0.0852284,
+              51.5106399
+            ],
+            [
+              -0.0851485,
+              51.5106405
+            ],
+            [
+              -0.0843205,
+              51.5106401
+            ]
+          ]
+        },
+        "id": "way/569024797"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569024800",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0903232,
+              51.5113913
+            ],
+            [
+              -0.0900183,
+              51.5113933
+            ],
+            [
+              -0.0898321,
+              51.5114038
+            ],
+            [
+              -0.0896359,
+              51.5114091
+            ],
+            [
+              -0.0894695,
+              51.5114007
+            ],
+            [
+              -0.0892096,
+              51.5113758
+            ],
+            [
+              -0.0883782,
+              51.5112141
+            ],
+            [
+              -0.0874619,
+              51.5110386
+            ],
+            [
+              -0.0872105,
+              51.51099
+            ],
+            [
+              -0.0869456,
+              51.5109393
+            ],
+            [
+              -0.0867277,
+              51.5108999
+            ]
+          ]
+        },
+        "id": "way/569024800"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569242257",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "loading_gauge": "subsurface",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2266582,
+              51.4937681
+            ],
+            [
+              -0.2264362,
+              51.493734
+            ],
+            [
+              -0.2259237,
+              51.493596
+            ],
+            [
+              -0.2253981,
+              51.4934414
+            ],
+            [
+              -0.2248039,
+              51.4932809
+            ],
+            [
+              -0.2245849,
+              51.4932113
+            ],
+            [
+              -0.2243938,
+              51.4931423
+            ],
+            [
+              -0.2241244,
+              51.4930128
+            ]
+          ]
+        },
+        "id": "way/569242257"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569242274",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2223648,
+              51.4914573
+            ],
+            [
+              -0.2220492,
+              51.4911866
+            ]
+          ]
+        },
+        "id": "way/569242274"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569242289",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2224952,
+              51.4915813
+            ],
+            [
+              -0.2223648,
+              51.4914573
+            ]
+          ]
+        },
+        "id": "way/569242289"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/578099743",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Hammersmith & City",
+          "name": "District and Hammersmith & City Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0100914,
+              51.5296594
+            ],
+            [
+              0.0107491,
+              51.5298133
+            ],
+            [
+              0.0113738,
+              51.5299534
+            ],
+            [
+              0.0115755,
+              51.5299986
+            ],
+            [
+              0.0126243,
+              51.5302266
+            ],
+            [
+              0.0135633,
+              51.5304315
+            ],
+            [
+              0.0139032,
+              51.5305098
+            ],
+            [
+              0.0147873,
+              51.5307266
+            ],
+            [
+              0.015655,
+              51.530939
+            ],
+            [
+              0.016294,
+              51.5310904
+            ],
+            [
+              0.0167222,
+              51.5311855
+            ],
+            [
+              0.0169431,
+              51.5312341
+            ],
+            [
+              0.0171696,
+              51.5312839
+            ],
+            [
+              0.0176173,
+              51.5313726
+            ],
+            [
+              0.0187254,
+              51.5316029
+            ]
+          ]
+        },
+        "id": "way/578099743"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/593926475",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District;Piccadilly",
+          "name": "District and Piccadilly Lines",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.281413,
+              51.5036563
+            ],
+            [
+              -0.2813665,
+              51.5036326
+            ]
+          ]
+        },
+        "id": "way/593926475"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/656584642",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "photograph",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0810967,
+              51.5396162
+            ],
+            [
+              0.0814907,
+              51.5394185
+            ],
+            [
+              0.0818159,
+              51.5392552
+            ]
+          ]
+        },
+        "id": "way/656584642"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/689957184",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "level": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1385791,
+              51.4975538
+            ],
+            [
+              -0.1384535,
+              51.4975892
+            ],
+            [
+              -0.1382924,
+              51.4976367
+            ],
+            [
+              -0.138133,
+              51.497692
+            ],
+            [
+              -0.1379823,
+              51.4977477
+            ],
+            [
+              -0.13785,
+              51.4978013
+            ],
+            [
+              -0.1377414,
+              51.4978484
+            ],
+            [
+              -0.137312,
+              51.4980494
+            ],
+            [
+              -0.1366094,
+              51.4984014
+            ],
+            [
+              -0.1360515,
+              51.4986953
+            ],
+            [
+              -0.1355016,
+              51.4989755
+            ],
+            [
+              -0.1353477,
+              51.4990453
+            ],
+            [
+              -0.1351193,
+              51.4991252
+            ],
+            [
+              -0.1349931,
+              51.4991704
+            ],
+            [
+              -0.1348445,
+              51.4992225
+            ],
+            [
+              -0.1347086,
+              51.4992683
+            ],
+            [
+              -0.134603,
+              51.4993007
+            ],
+            [
+              -0.1344343,
+              51.4993551
+            ],
+            [
+              -0.1342822,
+              51.4993993
+            ],
+            [
+              -0.1337948,
+              51.4995337
+            ],
+            [
+              -0.1333904,
+              51.499623
+            ],
+            [
+              -0.1328644,
+              51.4997029
+            ],
+            [
+              -0.1321376,
+              51.4997564
+            ],
+            [
+              -0.1315488,
+              51.4997593
+            ],
+            [
+              -0.1303871,
+              51.4997494
+            ],
+            [
+              -0.130311,
+              51.4997487
+            ],
+            [
+              -0.1296895,
+              51.4997663
+            ],
+            [
+              -0.1290316,
+              51.4998235
+            ],
+            [
+              -0.1284442,
+              51.499921
+            ],
+            [
+              -0.1281299,
+              51.4999985
+            ],
+            [
+              -0.1279096,
+              51.5000636
+            ],
+            [
+              -0.1276435,
+              51.500167
+            ],
+            [
+              -0.125921,
+              51.5008898
+            ]
+          ]
+        },
+        "id": "way/689957184"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/800185587",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1032679,
+              51.5117378
+            ],
+            [
+              -0.1030978,
+              51.5117862
+            ]
+          ]
+        },
+        "id": "way/800185587"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/800185588",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1129557,
+              51.5111368
+            ],
+            [
+              -0.1124117,
+              51.5111646
+            ],
+            [
+              -0.1118538,
+              51.511187
+            ],
+            [
+              -0.1109627,
+              51.5112024
+            ],
+            [
+              -0.1084796,
+              51.5112084
+            ],
+            [
+              -0.1069587,
+              51.511209
+            ],
+            [
+              -0.1056896,
+              51.5112168
+            ],
+            [
+              -0.1054053,
+              51.5112308
+            ],
+            [
+              -0.1050995,
+              51.5112676
+            ],
+            [
+              -0.1047991,
+              51.5113311
+            ],
+            [
+              -0.1045952,
+              51.5113796
+            ],
+            [
+              -0.1043267,
+              51.5114395
+            ],
+            [
+              -0.1032679,
+              51.5117378
+            ]
+          ]
+        },
+        "id": "way/800185588"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/820348969",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1853739,
+              51.4949883
+            ],
+            [
+              -0.1851894,
+              51.4949622
+            ]
+          ]
+        },
+        "id": "way/820348969"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/820361018",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1884815,
+              51.4948962
+            ],
+            [
+              -0.1880283,
+              51.4950113
+            ],
+            [
+              -0.1879061,
+              51.4950361
+            ],
+            [
+              -0.1877279,
+              51.495064
+            ],
+            [
+              -0.1875627,
+              51.4950913
+            ],
+            [
+              -0.1873745,
+              51.4951088
+            ],
+            [
+              -0.1871695,
+              51.495121
+            ],
+            [
+              -0.1869613,
+              51.4951308
+            ],
+            [
+              -0.1867424,
+              51.4951294
+            ],
+            [
+              -0.1864131,
+              51.4951065
+            ]
+          ]
+        },
+        "id": "way/820361018"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/820415372",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1864131,
+              51.4951065
+            ],
+            [
+              -0.1860207,
+              51.4950754
+            ],
+            [
+              -0.1859027,
+              51.4950639
+            ]
+          ]
+        },
+        "id": "way/820415372"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/820415373",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1859027,
+              51.4950639
+            ],
+            [
+              -0.1853739,
+              51.4949883
+            ]
+          ]
+        },
+        "id": "way/820415373"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/841301101",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "railway": "subway",
+          "relation": "102770",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.2507328,
+              51.5590719
+            ],
+            [
+              0.2517981,
+              51.5590405
+            ]
+          ]
+        },
+        "id": "way/841301101"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/852352877",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.235691,
+              51.55857
+            ],
+            [
+              0.2357833,
+              51.5585896
+            ],
+            [
+              0.2361131,
+              51.5586524
+            ],
+            [
+              0.2366563,
+              51.5587515
+            ],
+            [
+              0.2368466,
+              51.5587848
+            ]
+          ]
+        },
+        "id": "way/852352877"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/852352878",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "npe",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.235585,
+              51.5585474
+            ],
+            [
+              0.235691,
+              51.55857
+            ]
+          ]
+        },
+        "id": "way/852352878"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/916225370",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.214492,
+              51.4904269
+            ],
+            [
+              -0.2143049,
+              51.4904255
+            ],
+            [
+              -0.2141775,
+              51.4904205
+            ],
+            [
+              -0.2140203,
+              51.4904147
+            ],
+            [
+              -0.2137935,
+              51.4904006
+            ],
+            [
+              -0.2135782,
+              51.4903815
+            ]
+          ]
+        },
+        "id": "way/916225370"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/916225371",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2135782,
+              51.4903815
+            ],
+            [
+              -0.2133094,
+              51.4903466
+            ],
+            [
+              -0.2131385,
+              51.4903266
+            ]
+          ]
+        },
+        "id": "way/916225371"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/916225378",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2063384,
+              51.490596
+            ],
+            [
+              -0.2059484,
+              51.4907142
+            ],
+            [
+              -0.2045898,
+              51.4911215
+            ],
+            [
+              -0.2043801,
+              51.4911777
+            ],
+            [
+              -0.2042149,
+              51.4912156
+            ],
+            [
+              -0.2039508,
+              51.4912572
+            ],
+            [
+              -0.2036187,
+              51.4912931
+            ],
+            [
+              -0.2035212,
+              51.4912997
+            ],
+            [
+              -0.203351,
+              51.4913044
+            ],
+            [
+              -0.2031943,
+              51.4913022
+            ],
+            [
+              -0.2030227,
+              51.4912914
+            ],
+            [
+              -0.2028755,
+              51.4912774
+            ],
+            [
+              -0.2027057,
+              51.4912557
+            ]
+          ]
+        },
+        "id": "way/916225378"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/916225379",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2068199,
+              51.490467
+            ],
+            [
+              -0.2063384,
+              51.490596
+            ]
+          ]
+        },
+        "id": "way/916225379"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/951268385",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2021495,
+              51.4911294
+            ],
+            [
+              -0.2017805,
+              51.490994
+            ]
+          ]
+        },
+        "id": "way/951268385"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/951268386",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2025511,
+              51.4912325
+            ],
+            [
+              -0.2021495,
+              51.4911294
+            ]
+          ]
+        },
+        "id": "way/951268386"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/951268389",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "District",
+          "name": "District Line",
+          "network": "London Underground",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2027057,
+              51.4912557
+            ],
+            [
+              -0.2025511,
+              51.4912325
+            ]
+          ]
+        },
+        "id": "way/951268389"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1010534702",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "railway:track_ref": "1",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0777298,
+              51.5098131
+            ],
+            [
+              -0.0766367,
+              51.5098716
+            ],
+            [
+              -0.0765111,
+              51.5098931
+            ],
+            [
+              -0.0763933,
+              51.5099267
+            ],
+            [
+              -0.0762519,
+              51.509986
+            ]
+          ]
+        },
+        "id": "way/1010534702"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1010534705",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Circle;District",
+          "loading_gauge": "subsurface",
+          "name": "Circle and District Lines",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0762519,
+              51.509986
+            ],
+            [
+              -0.0762319,
+              51.5099944
+            ],
+            [
+              -0.0761323,
+              51.5100441
+            ],
+            [
+              -0.0760139,
+              51.5101343
+            ],
+            [
+              -0.0758623,
+              51.5102688
+            ]
+          ]
+        },
+        "id": "way/1010534705"
+      }
+    ]
+  }

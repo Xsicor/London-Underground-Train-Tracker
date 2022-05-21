@@ -1,0 +1,440 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hammersmith (H&C Line) Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUHSC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.225013,
+                    51.493535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goldhawk Road Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUGHK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.226715,
+                    51.502005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shepherd's Bush Market Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUSBM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.226375,
+                    51.505579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wood Lane Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUWLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22453,
+                    51.509669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Latimer Road Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLULRD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.217799,
+                    51.513389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ladbroke Grove Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLULAD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.210391,
+                    51.517449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Westbourne Park Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUWSP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201065,
+                    51.52111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Royal Oak Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLURYO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188748,
+                    51.519113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paddington (H&C Line)-Underground",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUPAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.178306,
+                    51.518187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edgware Road (Circle Line) Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUERC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.167832,
+                    51.519858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baker Street Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUBST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15713,
+                    51.522883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Great Portland Street Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUGPS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144262,
+                    51.52384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Euston Square Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUESQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135829,
+                    51.525604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King's Cross St. Pancras Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUKSX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123194,
+                    51.530663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farringdon Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUFCN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104913,
+                    51.520252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbican Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUBBN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097993,
+                    51.520275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moorgate Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUMGT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088322,
+                    51.518176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liverpool Street Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLULVT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083182,
+                    51.517372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aldgate East Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUADE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072384,
+                    51.515037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whitechapel Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUWPL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059971,
+                    51.519518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stepney Green Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUSGN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.046596,
+                    51.521858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mile End Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUMED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03364,
+                    51.525122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bow Road Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUBWR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.025128,
+                    51.52694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bromley-by-Bow Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUBBB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.011538,
+                    51.524839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Ham Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUWHM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005055,
+                    51.528136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plaistow Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUPLW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017451,
+                    51.531341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upton Park Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUUPK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.035263,
+                    51.53534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "East Ham Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUEHM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.051186,
+                    51.538948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barking Underground Station",
+                "line": "Hammersmith & City",
+                "id": "940GZZLUBKG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.081053,
+                    51.539321
+                ]
+            }
+        }
+    ]
+}

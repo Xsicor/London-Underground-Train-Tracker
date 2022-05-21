@@ -1,0 +1,262 @@
+{
+    "lines": [
+        {
+            "id": "central",
+            "data": [
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUEBY",
+                        "destinationNaptanId": "940GZZLUEPG",
+                        "via": "null"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUEBY",
+                            "destinationNaptanId": "940GZZLUHLT",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUEBY",
+                                "destinationNaptanId": "940GZZLUNAN"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUWRP",
+                            "destinationNaptanId": "940GZZLUEPG",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUNAN",
+                                "destinationNaptanId": "940GZZLUEPG"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUWRP",
+                        "destinationNaptanId": "940GZZLUHLT",
+                        "via": "940GZZLUNBP"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUWRP",
+                            "destinationNaptanId": "940GZZLUEPG",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUWRP",
+                                "destinationNaptanId": "940GZZLUNAN"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUEBY",
+                            "destinationNaptanId": "940GZZLUHLT",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUNAN",
+                                "destinationNaptanId": "940GZZLUHLT"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "district",
+            "data": [
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUKOY",
+                        "destinationNaptanId": "940GZZLUUPM",
+                        "via": "null"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUKOY",
+                            "destinationNaptanId": "940GZZLUERC",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUKOY",
+                                "destinationNaptanId": "940GZZLUECT"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUEBY",
+                            "destinationNaptanId": "940GZZLUUPM",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUECT",
+                                "destinationNaptanId": "940GZZLUUPM"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLURMD",
+                        "destinationNaptanId": "940GZZLUERC",
+                        "via": "null"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLURMD",
+                            "destinationNaptanId": "940GZZLUUPM",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLURMD",
+                                "destinationNaptanId": "940GZZLUECT"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUKOY",
+                            "destinationNaptanId": "940GZZLUERC",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUECT",
+                                "destinationNaptanId": "940GZZLUERC"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUWIM",
+                        "destinationNaptanId": "940GZZLUUPM",
+                        "via": "null"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUWIM",
+                            "destinationNaptanId": "940GZZLUERC",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUWIM",
+                                "destinationNaptanId": "940GZZLUECT"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLURMD",
+                            "destinationNaptanId": "940GZZLUUPM",
+                            "via": "null",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUECT",
+                                "destinationNaptanId": "940GZZLUUPM"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "northern",
+            "data": [
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUMDN",
+                        "destinationNaptanId": "940GZZLUEGW",
+                        "via": "940GZZLUCHX"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUEGW",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUMDN",
+                                "destinationNaptanId": "940GZZLUKNG"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZBPSUST",
+                            "destinationNaptanId": "940GZZLUEGW",
+                            "via": "940GZZLUCHX",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUKNG",
+                                "destinationNaptanId": "940GZZLUEUS"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUEGW",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUEUS",
+                                "destinationNaptanId": "940GZZLUEGW"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUMDN",
+                        "destinationNaptanId": "940GZZLUHBT",
+                        "via": "940GZZLUCHX"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUHBT",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUMDN",
+                                "destinationNaptanId": "940GZZLUKNG"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZBPSUST",
+                            "destinationNaptanId": "940GZZLUHBT",
+                            "via": "940GZZLUCHX",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUKNG",
+                                "destinationNaptanId": "940GZZLUEUS"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUHBT",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUEUS",
+                                "destinationNaptanId": "940GZZLUHBT"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "missingRailway": {
+                        "departureNaptanId": "940GZZLUMDN",
+                        "destinationNaptanId": "940GZZLUMHL",
+                        "via": "940GZZLUCHX"
+                    },
+                    "combiningRailways": [
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUHBT",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUMDN",
+                                "destinationNaptanId": "940GZZLUKNG"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZBPSUST",
+                            "destinationNaptanId": "940GZZLUHBT",
+                            "via": "940GZZLUCHX",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUKNG",
+                                "destinationNaptanId": "940GZZLUEUS"
+                            }
+                        },
+                        {
+                            "departureNaptanId": "940GZZLUMDN",
+                            "destinationNaptanId": "940GZZLUMHL",
+                            "via": "940GZZLUBNK",
+                            "connectingRailway": {
+                                "departureNaptanId": "940GZZLUEUS",
+                                "destinationNaptanId": "940GZZLUMHL"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

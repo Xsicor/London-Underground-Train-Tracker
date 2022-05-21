@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Mapbox Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js'></script>
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'map/ProofOfConcepts/mapDrawn.css' %}" />
+
+</head>
+
+<body>
+    <div id='map'></div>
+    {% load static %}
+    <script type='text/javascript'>
+    async function getJsonData(url) {
+        const staticJsonData = await fetch(url);
+        const jsonData = await staticJsonData.json();
+        return jsonData;
+    }
+    var stationData;
+    var railwayData;
+    </script>
+    <script src="{% static 'map/ProofOfConcepts/mapDrawn.js' %}"></script>
+</body>
+
+</html>

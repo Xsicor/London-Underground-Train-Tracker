@@ -1,0 +1,38 @@
+{
+  "name": "individualproject_2021_vara.uswaransigul",
+  "version": "1.0.0",
+  "description": "In the root directory of this project, setup a virtual environment. <br>\r For linux run the following commands:\r > sudo apt-get install python3-venv    # If needed <br>\r > python3 -m venv .venv <br>\r > source .venv/bin/activate <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHUL-CS-Projects/IndividualProject_2021_Vara.Uswaransigul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RHUL-CS-Projects/IndividualProject_2021_Vara.Uswaransigul/issues"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "homepage": "https://github.com/RHUL-CS-Projects/IndividualProject_2021_Vara.Uswaransigul#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "regenerator-runtime": "^0.13.9",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "mapbox-gl": "^2.7.0"
+  }
+}

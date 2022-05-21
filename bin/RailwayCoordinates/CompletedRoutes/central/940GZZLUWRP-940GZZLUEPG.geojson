@@ -1,0 +1,5985 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2022-01-14T01:09:56Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4007543",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4375871,
+              51.5696218
+            ],
+            [
+              -0.4370109,
+              51.5694318
+            ],
+            [
+              -0.4359326,
+              51.5690589
+            ],
+            [
+              -0.4356199,
+              51.5689597
+            ],
+            [
+              -0.4347793,
+              51.568689
+            ],
+            [
+              -0.4324954,
+              51.5679726
+            ],
+            [
+              -0.4317786,
+              51.5677426
+            ]
+          ]
+        },
+        "id": "way/4007543"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4043680",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "landsat + yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1024868,
+              51.669932
+            ],
+            [
+              0.1028623,
+              51.6708047
+            ],
+            [
+              0.102873,
+              51.6708284
+            ],
+            [
+              0.1028833,
+              51.6708533
+            ],
+            [
+              0.1029618,
+              51.6710263
+            ],
+            [
+              0.1029868,
+              51.671084
+            ],
+            [
+              0.10301,
+              51.6711374
+            ],
+            [
+              0.1030662,
+              51.6712605
+            ],
+            [
+              0.103077,
+              51.6712862
+            ],
+            [
+              0.103089,
+              51.6713117
+            ],
+            [
+              0.1031076,
+              51.6713536
+            ],
+            [
+              0.1031328,
+              51.6714102
+            ],
+            [
+              0.1031627,
+              51.6714783
+            ],
+            [
+              0.1031945,
+              51.6715489
+            ],
+            [
+              0.1032261,
+              51.6716198
+            ],
+            [
+              0.1032489,
+              51.6716712
+            ],
+            [
+              0.1032708,
+              51.6717195
+            ]
+          ]
+        },
+        "id": "way/4043680"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4636444",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2536529,
+              51.5221369
+            ],
+            [
+              -0.2531187,
+              51.5219054
+            ],
+            [
+              -0.2527995,
+              51.5217168
+            ],
+            [
+              -0.2524777,
+              51.5215065
+            ],
+            [
+              -0.252239,
+              51.5213438
+            ],
+            [
+              -0.2517881,
+              51.5209863
+            ],
+            [
+              -0.2506571,
+              51.5198281
+            ]
+          ]
+        },
+        "id": "way/4636444"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/17941580",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2398441,
+              51.5154233
+            ],
+            [
+              -0.2383973,
+              51.5155558
+            ],
+            [
+              -0.2377791,
+              51.5156134
+            ],
+            [
+              -0.2367362,
+              51.5157018
+            ],
+            [
+              -0.2361707,
+              51.5157509
+            ],
+            [
+              -0.2358787,
+              51.5157693
+            ],
+            [
+              -0.2356284,
+              51.5157748
+            ],
+            [
+              -0.2349875,
+              51.515785
+            ],
+            [
+              -0.2346825,
+              51.5157953
+            ],
+            [
+              -0.2344744,
+              51.5158052
+            ],
+            [
+              -0.2342131,
+              51.5158293
+            ],
+            [
+              -0.2339043,
+              51.5158739
+            ],
+            [
+              -0.2333328,
+              51.51596
+            ],
+            [
+              -0.2329219,
+              51.5160191
+            ],
+            [
+              -0.2325436,
+              51.5160579
+            ],
+            [
+              -0.2320723,
+              51.5160923
+            ],
+            [
+              -0.2317101,
+              51.5161109
+            ],
+            [
+              -0.231318,
+              51.5161177
+            ],
+            [
+              -0.2308782,
+              51.5161122
+            ],
+            [
+              -0.2302809,
+              51.5160872
+            ],
+            [
+              -0.2297889,
+              51.5160467
+            ],
+            [
+              -0.2291754,
+              51.5159771
+            ],
+            [
+              -0.2286538,
+              51.5158962
+            ],
+            [
+              -0.228315,
+              51.5158399
+            ],
+            [
+              -0.2279737,
+              51.515778
+            ],
+            [
+              -0.2276212,
+              51.5156945
+            ],
+            [
+              -0.2272225,
+              51.515594
+            ],
+            [
+              -0.2266548,
+              51.5154314
+            ]
+          ]
+        },
+        "id": "way/17941580"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23140910",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "ref": "ES12",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2421703,
+              51.5152795
+            ],
+            [
+              -0.2418205,
+              51.5152915
+            ]
+          ]
+        },
+        "id": "way/23140910"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23140912",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2418205,
+              51.5152915
+            ],
+            [
+              -0.2410178,
+              51.5153304
+            ],
+            [
+              -0.2405945,
+              51.5153638
+            ],
+            [
+              -0.2398441,
+              51.5154233
+            ]
+          ]
+        },
+        "id": "way/23140912"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23577509",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4073891,
+              51.5597259
+            ],
+            [
+              -0.4071422,
+              51.5596448
+            ]
+          ]
+        },
+        "id": "way/23577509"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23577510",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4071422,
+              51.5596448
+            ],
+            [
+              -0.406019,
+              51.5592643
+            ],
+            [
+              -0.4048907,
+              51.5588792
+            ],
+            [
+              -0.4035606,
+              51.558402
+            ],
+            [
+              -0.4027819,
+              51.5581469
+            ],
+            [
+              -0.4018764,
+              51.5578572
+            ],
+            [
+              -0.4005864,
+              51.5574418
+            ],
+            [
+              -0.3983645,
+              51.5567088
+            ],
+            [
+              -0.3983104,
+              51.5566888
+            ]
+          ]
+        },
+        "id": "way/23577510"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23650926",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3983104,
+              51.5566888
+            ],
+            [
+              -0.3980628,
+              51.5566033
+            ]
+          ]
+        },
+        "id": "way/23650926"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23650931",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4120928,
+              51.5612574
+            ],
+            [
+              -0.4114281,
+              51.5610254
+            ],
+            [
+              -0.4104344,
+              51.5606927
+            ],
+            [
+              -0.4095086,
+              51.5603913
+            ],
+            [
+              -0.4091011,
+              51.5602624
+            ],
+            [
+              -0.4073891,
+              51.5597259
+            ]
+          ]
+        },
+        "id": "way/23650931"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23650934",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4126929,
+              51.5614672
+            ],
+            [
+              -0.4120928,
+              51.5612574
+            ]
+          ]
+        },
+        "id": "way/23650934"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/24597524",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2983777,
+              51.531083
+            ],
+            [
+              -0.2954211,
+              51.5306593
+            ],
+            [
+              -0.2945731,
+              51.5305298
+            ],
+            [
+              -0.2932869,
+              51.5302977
+            ],
+            [
+              -0.2914366,
+              51.5299444
+            ],
+            [
+              -0.2895809,
+              51.5295669
+            ],
+            [
+              -0.2875548,
+              51.5291545
+            ],
+            [
+              -0.2862523,
+              51.5288816
+            ],
+            [
+              -0.2849259,
+              51.5286475
+            ],
+            [
+              -0.2822887,
+              51.528157
+            ],
+            [
+              -0.2783149,
+              51.5273881
+            ],
+            [
+              -0.2717746,
+              51.5260809
+            ],
+            [
+              -0.2708628,
+              51.5258521
+            ],
+            [
+              -0.2701114,
+              51.5256293
+            ],
+            [
+              -0.2695401,
+              51.5254822
+            ],
+            [
+              -0.2687912,
+              51.5253613
+            ],
+            [
+              -0.267716,
+              51.5252739
+            ],
+            [
+              -0.2671959,
+              51.5252301
+            ],
+            [
+              -0.2664977,
+              51.525087
+            ],
+            [
+              -0.2663816,
+              51.5250632
+            ]
+          ]
+        },
+        "id": "way/24597524"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/26142306",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4313435,
+              51.5676014
+            ],
+            [
+              -0.4311347,
+              51.5675347
+            ]
+          ]
+        },
+        "id": "way/26142306"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/26142308",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4311347,
+              51.5675347
+            ],
+            [
+              -0.4301761,
+              51.5672189
+            ],
+            [
+              -0.4293114,
+              51.5669354
+            ],
+            [
+              -0.4275861,
+              51.5663696
+            ],
+            [
+              -0.4267703,
+              51.5660943
+            ],
+            [
+              -0.4259683,
+              51.5658332
+            ],
+            [
+              -0.4251952,
+              51.5655495
+            ],
+            [
+              -0.424407,
+              51.5652704
+            ],
+            [
+              -0.4211801,
+              51.5642084
+            ],
+            [
+              -0.4200512,
+              51.5638358
+            ],
+            [
+              -0.4189128,
+              51.5634606
+            ],
+            [
+              -0.417778,
+              51.5630898
+            ],
+            [
+              -0.4166466,
+              51.5627436
+            ],
+            [
+              -0.4158357,
+              51.5624991
+            ],
+            [
+              -0.4150178,
+              51.5622323
+            ],
+            [
+              -0.4142737,
+              51.5619872
+            ],
+            [
+              -0.4134375,
+              51.5617129
+            ],
+            [
+              -0.4129701,
+              51.56156
+            ],
+            [
+              -0.4126929,
+              51.5614672
+            ]
+          ]
+        },
+        "id": "way/26142308"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33181942",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2439286,
+              51.5154368
+            ],
+            [
+              -0.2431974,
+              51.5153289
+            ],
+            [
+              -0.2429606,
+              51.5153067
+            ],
+            [
+              -0.2426897,
+              51.5152933
+            ],
+            [
+              -0.2421703,
+              51.5152795
+            ]
+          ]
+        },
+        "id": "way/33181942"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33181945",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2445897,
+              51.5155604
+            ],
+            [
+              -0.2439286,
+              51.5154368
+            ]
+          ]
+        },
+        "id": "way/33181945"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33181948",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2473279,
+              51.5167151
+            ],
+            [
+              -0.2472836,
+              51.5166832
+            ],
+            [
+              -0.2471196,
+              51.5165731
+            ]
+          ]
+        },
+        "id": "way/33181948"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33181950",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2471196,
+              51.5165731
+            ],
+            [
+              -0.2465182,
+              51.5162541
+            ],
+            [
+              -0.2460237,
+              51.5160222
+            ],
+            [
+              -0.2457261,
+              51.5159091
+            ],
+            [
+              -0.2453705,
+              51.5157797
+            ],
+            [
+              -0.2450945,
+              51.5156928
+            ],
+            [
+              -0.2445897,
+              51.5155604
+            ]
+          ]
+        },
+        "id": "way/33181950"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/48016564",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102768",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0527019,
+              51.5272332
+            ],
+            [
+              -0.0519664,
+              51.5271276
+            ],
+            [
+              -0.0508555,
+              51.5267743
+            ],
+            [
+              -0.049824,
+              51.5263047
+            ],
+            [
+              -0.0475162,
+              51.5249723
+            ],
+            [
+              -0.0467267,
+              51.5246088
+            ],
+            [
+              -0.0461343,
+              51.5243987
+            ],
+            [
+              -0.0454628,
+              51.5242417
+            ],
+            [
+              -0.044725,
+              51.524138
+            ],
+            [
+              -0.0441255,
+              51.5240845
+            ],
+            [
+              -0.043435,
+              51.524023
+            ],
+            [
+              -0.042103,
+              51.5239567
+            ],
+            [
+              -0.0406266,
+              51.5239398
+            ],
+            [
+              -0.0392571,
+              51.5239967
+            ],
+            [
+              -0.0387437,
+              51.5240529
+            ],
+            [
+              -0.0382518,
+              51.5241334
+            ],
+            [
+              -0.0378381,
+              51.524222
+            ],
+            [
+              -0.0372098,
+              51.5243797
+            ],
+            [
+              -0.0355682,
+              51.5249331
+            ],
+            [
+              -0.0344893,
+              51.5252219
+            ],
+            [
+              -0.0335219,
+              51.5254588
+            ],
+            [
+              -0.0320493,
+              51.5257837
+            ],
+            [
+              -0.0281585,
+              51.5266433
+            ],
+            [
+              -0.0261805,
+              51.5271851
+            ],
+            [
+              -0.0250478,
+              51.5275865
+            ],
+            [
+              -0.0233805,
+              51.5282873
+            ],
+            [
+              -0.0219924,
+              51.5289802
+            ],
+            [
+              -0.0182192,
+              51.5317719
+            ],
+            [
+              -0.0167155,
+              51.532792
+            ],
+            [
+              -0.015015,
+              51.5338041
+            ],
+            [
+              -0.0116293,
+              51.5356867
+            ],
+            [
+              -0.0111755,
+              51.535964
+            ],
+            [
+              -0.0093138,
+              51.5370958
+            ],
+            [
+              -0.0076256,
+              51.538539
+            ],
+            [
+              -0.0073113,
+              51.5388232
+            ],
+            [
+              -0.0069306,
+              51.5391868
+            ],
+            [
+              -0.0054601,
+              51.5402954
+            ]
+          ]
+        },
+        "id": "way/48016564"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/80204614",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2505083,
+              51.5196732
+            ],
+            [
+              -0.2492868,
+              51.5184948
+            ],
+            [
+              -0.2481132,
+              51.5173528
+            ],
+            [
+              -0.2479052,
+              51.5171623
+            ],
+            [
+              -0.2477016,
+              51.5169886
+            ],
+            [
+              -0.2473279,
+              51.5167151
+            ]
+          ]
+        },
+        "id": "way/80204614"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/80204616",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2506571,
+              51.5198281
+            ],
+            [
+              -0.2505083,
+              51.5196732
+            ]
+          ]
+        },
+        "id": "way/80204616"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683045",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.340863,
+              51.5411098
+            ],
+            [
+              -0.3398582,
+              51.5408455
+            ]
+          ]
+        },
+        "id": "way/108683045"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683051",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3026038,
+              51.5316467
+            ],
+            [
+              -0.3015393,
+              51.5314856
+            ],
+            [
+              -0.3004686,
+              51.5313355
+            ],
+            [
+              -0.2985862,
+              51.5311111
+            ]
+          ]
+        },
+        "id": "way/108683051"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683065",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3419405,
+              51.5414173
+            ],
+            [
+              -0.340863,
+              51.5411098
+            ]
+          ]
+        },
+        "id": "way/108683065"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683073",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2985862,
+              51.5311111
+            ],
+            [
+              -0.2983777,
+              51.531083
+            ]
+          ]
+        },
+        "id": "way/108683073"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683074",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3431005,
+              51.5417421
+            ],
+            [
+              -0.3419405,
+              51.5414173
+            ]
+          ]
+        },
+        "id": "way/108683074"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683083",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3434869,
+              51.5418472
+            ],
+            [
+              -0.3431005,
+              51.5417421
+            ]
+          ]
+        },
+        "id": "way/108683083"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683088",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3352112,
+              51.539622
+            ],
+            [
+              -0.3346219,
+              51.5394823
+            ]
+          ]
+        },
+        "id": "way/108683088"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683096",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3346219,
+              51.5394823
+            ],
+            [
+              -0.3336333,
+              51.5392796
+            ],
+            [
+              -0.3326543,
+              51.5390591
+            ],
+            [
+              -0.3295925,
+              51.5383204
+            ],
+            [
+              -0.3265467,
+              51.5375555
+            ],
+            [
+              -0.3242788,
+              51.5369744
+            ]
+          ]
+        },
+        "id": "way/108683096"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108683100",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3030912,
+              51.5317276
+            ],
+            [
+              -0.3026038,
+              51.5316467
+            ]
+          ]
+        },
+        "id": "way/108683100"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/109746152",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.082806,
+              51.5179223
+            ],
+            [
+              -0.0825803,
+              51.5181725
+            ],
+            [
+              -0.0823181,
+              51.5184395
+            ],
+            [
+              -0.0822959,
+              51.5184621
+            ],
+            [
+              -0.0820741,
+              51.5186693
+            ],
+            [
+              -0.0818524,
+              51.5188379
+            ]
+          ]
+        },
+        "id": "way/109746152"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/109746156",
+          "covered": "yes",
+          "layer": "-3",
+          "level": "-3",
+          "name": "Liverpool Street - Central Line - Eastbound - Platform 4",
+          "public_transport": "platform",
+          "railway": "platform",
+          "ref": "4",
+          "subway": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0825147,
+              51.518178
+            ],
+            [
+              -0.0825033,
+              51.5181921
+            ],
+            [
+              -0.0823127,
+              51.5183984
+            ],
+            [
+              -0.082087,
+              51.5186231
+            ],
+            [
+              -0.0820668,
+              51.5186443
+            ]
+          ]
+        },
+        "id": "way/109746156"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/138396699",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "Bing",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1103523,
+              51.6877061
+            ],
+            [
+              0.1104133,
+              51.6878354
+            ]
+          ]
+        },
+        "id": "way/138396699"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/138396700",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1032708,
+              51.6717195
+            ],
+            [
+              0.103289,
+              51.67176
+            ],
+            [
+              0.1033084,
+              51.6718049
+            ],
+            [
+              0.1033117,
+              51.6718129
+            ],
+            [
+              0.1033152,
+              51.6718201
+            ],
+            [
+              0.1033209,
+              51.6718347
+            ],
+            [
+              0.1033338,
+              51.6718619
+            ],
+            [
+              0.103346,
+              51.6718893
+            ],
+            [
+              0.1033581,
+              51.6719165
+            ],
+            [
+              0.1033714,
+              51.6719465
+            ],
+            [
+              0.1033846,
+              51.6719762
+            ],
+            [
+              0.1034105,
+              51.6720343
+            ],
+            [
+              0.1036017,
+              51.6724641
+            ],
+            [
+              0.1036625,
+              51.6726076
+            ],
+            [
+              0.1037198,
+              51.672731
+            ],
+            [
+              0.1038136,
+              51.6729169
+            ],
+            [
+              0.1054036,
+              51.6765629
+            ],
+            [
+              0.1067782,
+              51.679704
+            ],
+            [
+              0.1076489,
+              51.6816311
+            ],
+            [
+              0.1093155,
+              51.6853653
+            ],
+            [
+              0.1103523,
+              51.6877061
+            ]
+          ]
+        },
+        "id": "way/138396700"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/139183983",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2663816,
+              51.5250632
+            ],
+            [
+              -0.2662195,
+              51.5250296
+            ],
+            [
+              -0.2653562,
+              51.5248414
+            ],
+            [
+              -0.2617373,
+              51.5241095
+            ],
+            [
+              -0.260816,
+              51.5239164
+            ],
+            [
+              -0.2599555,
+              51.5237233
+            ],
+            [
+              -0.259194,
+              51.5235534
+            ],
+            [
+              -0.2586135,
+              51.5234235
+            ],
+            [
+              -0.2579811,
+              51.5232771
+            ],
+            [
+              -0.2574773,
+              51.5231487
+            ],
+            [
+              -0.2564639,
+              51.5229288
+            ],
+            [
+              -0.2554829,
+              51.5227343
+            ],
+            [
+              -0.2548183,
+              51.5225577
+            ],
+            [
+              -0.2544972,
+              51.522459
+            ],
+            [
+              -0.2536529,
+              51.5221369
+            ]
+          ]
+        },
+        "id": "way/139183983"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/139183987",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2255375,
+              51.5149822
+            ],
+            [
+              -0.2252469,
+              51.514735
+            ],
+            [
+              -0.2251411,
+              51.5146277
+            ],
+            [
+              -0.2250673,
+              51.5144962
+            ],
+            [
+              -0.224989,
+              51.514344
+            ],
+            [
+              -0.2244827,
+              51.5130462
+            ],
+            [
+              -0.2244091,
+              51.512704
+            ],
+            [
+              -0.2243854,
+              51.5124563
+            ],
+            [
+              -0.224386,
+              51.512123
+            ]
+          ]
+        },
+        "id": "way/139183987"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/139183998",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2266548,
+              51.5154314
+            ],
+            [
+              -0.226291,
+              51.5152887
+            ],
+            [
+              -0.2260999,
+              51.5152274
+            ],
+            [
+              -0.2259304,
+              51.51516
+            ],
+            [
+              -0.225745,
+              51.5150724
+            ],
+            [
+              -0.2255375,
+              51.5149822
+            ]
+          ]
+        },
+        "id": "way/139183998"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/139184004",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243722,
+              51.510197
+            ],
+            [
+              -0.2243687,
+              51.5101531
+            ],
+            [
+              -0.2243546,
+              51.5098265
+            ]
+          ]
+        },
+        "id": "way/139184004"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/140574767",
+          "name": "South Woodford - Central Line - Eastbound",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0274109,
+              51.5919554
+            ],
+            [
+              0.0271,
+              51.5906057
+            ]
+          ]
+        },
+        "id": "way/140574767"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142169422",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "railway": "subway",
+          "source": "yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1131803,
+              51.6927845
+            ],
+            [
+              0.1137324,
+              51.6934085
+            ],
+            [
+              0.113781,
+              51.6934607
+            ],
+            [
+              0.1139223,
+              51.6936038
+            ],
+            [
+              0.1139675,
+              51.6936496
+            ],
+            [
+              0.1141545,
+              51.6938261
+            ],
+            [
+              0.1143631,
+              51.6940101
+            ],
+            [
+              0.1145544,
+              51.6941642
+            ]
+          ]
+        },
+        "id": "way/142169422"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411005",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0694967,
+              51.6421738
+            ],
+            [
+              0.070794,
+              51.6422811
+            ],
+            [
+              0.0726396,
+              51.642504
+            ],
+            [
+              0.0741765,
+              51.6427335
+            ],
+            [
+              0.0765125,
+              51.6431716
+            ],
+            [
+              0.0779108,
+              51.6434907
+            ],
+            [
+              0.079095,
+              51.6437828
+            ],
+            [
+              0.080268,
+              51.6441109
+            ],
+            [
+              0.0813931,
+              51.6444606
+            ],
+            [
+              0.0822554,
+              51.6447594
+            ]
+          ]
+        },
+        "id": "way/142411005"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411006",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0577226,
+              51.6420828
+            ],
+            [
+              0.0580198,
+              51.6421289
+            ],
+            [
+              0.0583738,
+              51.6421695
+            ],
+            [
+              0.0590464,
+              51.6422165
+            ],
+            [
+              0.0595014,
+              51.6422165
+            ],
+            [
+              0.06035,
+              51.6421794
+            ],
+            [
+              0.0627458,
+              51.6420828
+            ],
+            [
+              0.063895,
+              51.6420443
+            ],
+            [
+              0.065176,
+              51.6420111
+            ],
+            [
+              0.0663144,
+              51.6420328
+            ],
+            [
+              0.0675248,
+              51.6420689
+            ],
+            [
+              0.0692566,
+              51.6421559
+            ]
+          ]
+        },
+        "id": "way/142411006"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411009",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0408016,
+              51.615811
+            ],
+            [
+              0.0412404,
+              51.6163547
+            ],
+            [
+              0.0414141,
+              51.6165767
+            ],
+            [
+              0.0418861,
+              51.6172102
+            ],
+            [
+              0.0430077,
+              51.6186294
+            ],
+            [
+              0.0439033,
+              51.6198692
+            ],
+            [
+              0.0442889,
+              51.6204348
+            ],
+            [
+              0.0445661,
+              51.6208794
+            ],
+            [
+              0.0449326,
+              51.6215538
+            ],
+            [
+              0.0454408,
+              51.6224676
+            ],
+            [
+              0.0460529,
+              51.6238407
+            ],
+            [
+              0.0465598,
+              51.6252034
+            ]
+          ]
+        },
+        "id": "way/142411009"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411010",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0692566,
+              51.6421559
+            ],
+            [
+              0.0694967,
+              51.6421738
+            ]
+          ]
+        },
+        "id": "way/142411010"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411011",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0465598,
+              51.6252034
+            ],
+            [
+              0.0466027,
+              51.6253275
+            ]
+          ]
+        },
+        "id": "way/142411011"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411014",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "landsat + yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0822554,
+              51.6447594
+            ],
+            [
+              0.0825886,
+              51.6448886
+            ]
+          ]
+        },
+        "id": "way/142411014"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411017",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0574141,
+              51.6420306
+            ],
+            [
+              0.0577226,
+              51.6420828
+            ]
+          ]
+        },
+        "id": "way/142411017"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411018",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0466027,
+              51.6253275
+            ],
+            [
+              0.0466779,
+              51.6255647
+            ],
+            [
+              0.0467946,
+              51.6259566
+            ],
+            [
+              0.0469567,
+              51.6265276
+            ],
+            [
+              0.04701,
+              51.6267657
+            ],
+            [
+              0.0473528,
+              51.6279257
+            ],
+            [
+              0.0475166,
+              51.6283929
+            ],
+            [
+              0.047716,
+              51.6289072
+            ],
+            [
+              0.0480021,
+              51.6296101
+            ],
+            [
+              0.0482974,
+              51.6302098
+            ],
+            [
+              0.0485945,
+              51.6308458
+            ],
+            [
+              0.0489484,
+              51.6314432
+            ],
+            [
+              0.0493153,
+              51.6320447
+            ],
+            [
+              0.0499379,
+              51.6329645
+            ],
+            [
+              0.0508968,
+              51.6342213
+            ],
+            [
+              0.0519425,
+              51.6356273
+            ],
+            [
+              0.052504,
+              51.636553
+            ],
+            [
+              0.0528392,
+              51.6372309
+            ],
+            [
+              0.0531932,
+              51.6380518
+            ],
+            [
+              0.0534008,
+              51.6387449
+            ],
+            [
+              0.0536248,
+              51.6394635
+            ],
+            [
+              0.0538182,
+              51.6399303
+            ],
+            [
+              0.0540624,
+              51.6403766
+            ],
+            [
+              0.0545015,
+              51.6408155
+            ],
+            [
+              0.054572,
+              51.6408874
+            ],
+            [
+              0.0546692,
+              51.6409757
+            ],
+            [
+              0.0549647,
+              51.641177
+            ],
+            [
+              0.055271,
+              51.6413438
+            ],
+            [
+              0.0557431,
+              51.6415697
+            ],
+            [
+              0.0560127,
+              51.6416855
+            ],
+            [
+              0.0563725,
+              51.6418047
+            ],
+            [
+              0.0565878,
+              51.6418662
+            ],
+            [
+              0.0567811,
+              51.6419102
+            ],
+            [
+              0.0570021,
+              51.641956
+            ],
+            [
+              0.0572083,
+              51.641997
+            ],
+            [
+              0.0574141,
+              51.6420306
+            ]
+          ]
+        },
+        "id": "way/142411018"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411022",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "landsat + yahoo",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0825886,
+              51.6448886
+            ],
+            [
+              0.0835733,
+              51.6452929
+            ],
+            [
+              0.0843578,
+              51.645648
+            ],
+            [
+              0.0851168,
+              51.6460414
+            ],
+            [
+              0.0856397,
+              51.6463562
+            ],
+            [
+              0.0861444,
+              51.646694
+            ],
+            [
+              0.0866294,
+              51.6470006
+            ],
+            [
+              0.088426,
+              51.648129
+            ],
+            [
+              0.0898684,
+              51.6491769
+            ],
+            [
+              0.0910064,
+              51.6501762
+            ],
+            [
+              0.0919938,
+              51.6511547
+            ],
+            [
+              0.0935863,
+              51.6529724
+            ],
+            [
+              0.0944803,
+              51.6542834
+            ],
+            [
+              0.0952929,
+              51.6557031
+            ],
+            [
+              0.0963331,
+              51.6575132
+            ],
+            [
+              0.0971812,
+              51.658734
+            ],
+            [
+              0.0987628,
+              51.6606765
+            ],
+            [
+              0.099413,
+              51.6615192
+            ],
+            [
+              0.0999359,
+              51.6623528
+            ],
+            [
+              0.1004989,
+              51.6634773
+            ],
+            [
+              0.1008381,
+              51.6643584
+            ],
+            [
+              0.1010633,
+              51.6652209
+            ],
+            [
+              0.1012684,
+              51.6664034
+            ],
+            [
+              0.1013511,
+              51.6669863
+            ],
+            [
+              0.1014766,
+              51.6675348
+            ],
+            [
+              0.1017367,
+              51.6683557
+            ],
+            [
+              0.101911,
+              51.6687453
+            ],
+            [
+              0.1024868,
+              51.669932
+            ]
+          ]
+        },
+        "id": "way/142411022"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/142411024",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0285131,
+              51.5963578
+            ],
+            [
+              0.0288049,
+              51.5972147
+            ],
+            [
+              0.0296675,
+              51.5990371
+            ],
+            [
+              0.0314528,
+              51.6021608
+            ],
+            [
+              0.0317733,
+              51.6027216
+            ],
+            [
+              0.0324144,
+              51.6039086
+            ],
+            [
+              0.032876,
+              51.6047295
+            ],
+            [
+              0.0330696,
+              51.6050739
+            ],
+            [
+              0.0332358,
+              51.605404
+            ],
+            [
+              0.0333897,
+              51.6056782
+            ],
+            [
+              0.0338756,
+              51.6065548
+            ],
+            [
+              0.0339227,
+              51.6066397
+            ]
+          ]
+        },
+        "id": "way/142411024"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144714776",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0066488,
+              51.5557879
+            ],
+            [
+              -0.0063261,
+              51.5560568
+            ],
+            [
+              -0.0059969,
+              51.5562856
+            ],
+            [
+              -0.0054953,
+              51.5566085
+            ],
+            [
+              -0.0042132,
+              51.5574277
+            ],
+            [
+              0.0006971,
+              51.5605606
+            ],
+            [
+              0.0017944,
+              51.5612426
+            ],
+            [
+              0.0046343,
+              51.5636357
+            ],
+            [
+              0.0053722,
+              51.5644411
+            ],
+            [
+              0.0060803,
+              51.5653096
+            ],
+            [
+              0.0075527,
+              51.5675265
+            ],
+            [
+              0.0079447,
+              51.5680347
+            ],
+            [
+              0.0083915,
+              51.5685848
+            ],
+            [
+              0.0086004,
+              51.5688114
+            ],
+            [
+              0.0089103,
+              51.569121
+            ],
+            [
+              0.0093704,
+              51.5695774
+            ]
+          ]
+        },
+        "id": "way/144714776"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144722633",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0283283,
+              51.5958325
+            ],
+            [
+              0.0285131,
+              51.5963578
+            ]
+          ]
+        },
+        "id": "way/144722633"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144722635",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0218392,
+              51.581193
+            ],
+            [
+              0.0222591,
+              51.581815
+            ],
+            [
+              0.0228586,
+              51.5828555
+            ],
+            [
+              0.0240461,
+              51.5846516
+            ],
+            [
+              0.0241525,
+              51.5848203
+            ],
+            [
+              0.0250065,
+              51.5861896
+            ],
+            [
+              0.0255063,
+              51.5870048
+            ],
+            [
+              0.026066,
+              51.5880345
+            ],
+            [
+              0.0266158,
+              51.5891512
+            ],
+            [
+              0.0270007,
+              51.5901555
+            ],
+            [
+              0.0271282,
+              51.5905956
+            ],
+            [
+              0.0274406,
+              51.5919252
+            ],
+            [
+              0.0279591,
+              51.5946503
+            ],
+            [
+              0.0283283,
+              51.5958325
+            ]
+          ]
+        },
+        "id": "way/144722635"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144727797",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "note": "This landuse needs to be *below* the contents of the site/international station for correct rendering.",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0013824,
+              51.5431486
+            ],
+            [
+              -0.0006836,
+              51.5436581
+            ],
+            [
+              -0.000369,
+              51.5438925
+            ],
+            [
+              -0.0000586,
+              51.5441455
+            ],
+            [
+              0.0002495,
+              51.5444453
+            ],
+            [
+              0.0005434,
+              51.5447718
+            ],
+            [
+              0.0007671,
+              51.5451339
+            ],
+            [
+              0.0008571,
+              51.5454095
+            ],
+            [
+              0.000873,
+              51.5457775
+            ],
+            [
+              0.0008286,
+              51.5460716
+            ],
+            [
+              0.0007336,
+              51.5463874
+            ],
+            [
+              0.0005869,
+              51.5467401
+            ],
+            [
+              0.0003831,
+              51.5471021
+            ],
+            [
+              0.0000543,
+              51.5475376
+            ],
+            [
+              -0.0002141,
+              51.5478488
+            ],
+            [
+              -0.0005629,
+              51.548152
+            ],
+            [
+              -0.0010464,
+              51.5484733
+            ],
+            [
+              -0.0016415,
+              51.548779
+            ],
+            [
+              -0.0021744,
+              51.549037
+            ],
+            [
+              -0.0029947,
+              51.5493609
+            ],
+            [
+              -0.0043802,
+              51.5498503
+            ],
+            [
+              -0.0049962,
+              51.5501095
+            ],
+            [
+              -0.0055185,
+              51.5503907
+            ],
+            [
+              -0.0060406,
+              51.5507043
+            ],
+            [
+              -0.0067122,
+              51.5511586
+            ],
+            [
+              -0.0070567,
+              51.5515001
+            ],
+            [
+              -0.0072406,
+              51.5517237
+            ],
+            [
+              -0.0074349,
+              51.5520271
+            ]
+          ]
+        },
+        "id": "way/144727797"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144727803",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102768",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0054601,
+              51.5402954
+            ],
+            [
+              -0.0046985,
+              51.540876
+            ],
+            [
+              -0.0042174,
+              51.5412441
+            ],
+            [
+              -0.0037262,
+              51.5415826
+            ],
+            [
+              -0.0025139,
+              51.5423673
+            ],
+            [
+              -0.0017776,
+              51.542871
+            ],
+            [
+              -0.0013824,
+              51.5431486
+            ]
+          ]
+        },
+        "id": "way/144727803"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/144727805",
+          "cutting": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "note": "The Central line remains above ground (though below the level of the streets) until about the edge of Drapers Field.",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0074349,
+              51.5520271
+            ],
+            [
+              -0.0075477,
+              51.5521933
+            ],
+            [
+              -0.0076504,
+              51.5523554
+            ],
+            [
+              -0.0077552,
+              51.5525842
+            ],
+            [
+              -0.007838,
+              51.5527981
+            ],
+            [
+              -0.007897,
+              51.5529701
+            ],
+            [
+              -0.0079353,
+              51.5531471
+            ],
+            [
+              -0.0079561,
+              51.5533238
+            ],
+            [
+              -0.0079613,
+              51.5535259
+            ],
+            [
+              -0.0079471,
+              51.5537817
+            ],
+            [
+              -0.0078966,
+              51.5540392
+            ],
+            [
+              -0.007838,
+              51.5542441
+            ],
+            [
+              -0.0077618,
+              51.5544469
+            ],
+            [
+              -0.0076792,
+              51.5546249
+            ],
+            [
+              -0.0075453,
+              51.5548455
+            ],
+            [
+              -0.0073211,
+              51.5551284
+            ],
+            [
+              -0.0071475,
+              51.5553175
+            ],
+            [
+              -0.0069606,
+              51.5555006
+            ],
+            [
+              -0.0066488,
+              51.5557879
+            ]
+          ]
+        },
+        "id": "way/144727805"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/147227300",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.1104133,
+              51.6878354
+            ],
+            [
+              0.1111275,
+              51.6894704
+            ],
+            [
+              0.1113899,
+              51.6901423
+            ],
+            [
+              0.1116214,
+              51.6905976
+            ],
+            [
+              0.1119352,
+              51.691136
+            ],
+            [
+              0.112094,
+              51.6914146
+            ],
+            [
+              0.1121447,
+              51.6914917
+            ],
+            [
+              0.1122732,
+              51.6916869
+            ],
+            [
+              0.1127632,
+              51.6922826
+            ],
+            [
+              0.112972,
+              51.6925396
+            ],
+            [
+              0.1131803,
+              51.6927845
+            ]
+          ]
+        },
+        "id": "way/147227300"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150882715",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1956708,
+              51.5092684
+            ],
+            [
+              -0.1955015,
+              51.509314
+            ],
+            [
+              -0.1941154,
+              51.5095982
+            ],
+            [
+              -0.192883,
+              51.509915
+            ],
+            [
+              -0.1919761,
+              51.5100873
+            ],
+            [
+              -0.1913588,
+              51.5101789
+            ],
+            [
+              -0.1909888,
+              51.5102338
+            ],
+            [
+              -0.1894488,
+              51.5103693
+            ],
+            [
+              -0.1883665,
+              51.5104491
+            ],
+            [
+              -0.1872876,
+              51.5104981
+            ],
+            [
+              -0.1851749,
+              51.5107207
+            ],
+            [
+              -0.1809814,
+              51.5111702
+            ],
+            [
+              -0.1751449,
+              51.5118713
+            ],
+            [
+              -0.1641468,
+              51.5129419
+            ],
+            [
+              -0.1634569,
+              51.5130018
+            ],
+            [
+              -0.1598789,
+              51.5133126
+            ],
+            [
+              -0.1590396,
+              51.5133843
+            ],
+            [
+              -0.1583052,
+              51.5134792
+            ],
+            [
+              -0.1578356,
+              51.5135398
+            ],
+            [
+              -0.1561542,
+              51.5137337
+            ],
+            [
+              -0.153801,
+              51.5138685
+            ],
+            [
+              -0.149936,
+              51.5142791
+            ],
+            [
+              -0.1490106,
+              51.5143809
+            ],
+            [
+              -0.1459743,
+              51.5147966
+            ],
+            [
+              -0.1423456,
+              51.5152882
+            ]
+          ]
+        },
+        "id": "way/150882715"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150882716",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1423456,
+              51.5152882
+            ],
+            [
+              -0.1408111,
+              51.5154617
+            ],
+            [
+              -0.1402345,
+              51.5155284
+            ]
+          ]
+        },
+        "id": "way/150882716"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150882718",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243546,
+              51.5098265
+            ],
+            [
+              -0.2243536,
+              51.5097789
+            ],
+            [
+              -0.224329,
+              51.5076173
+            ],
+            [
+              -0.2243445,
+              51.507432
+            ],
+            [
+              -0.2243917,
+              51.507193
+            ],
+            [
+              -0.2244389,
+              51.5069646
+            ],
+            [
+              -0.224502,
+              51.5067355
+            ],
+            [
+              -0.2245629,
+              51.5065424
+            ],
+            [
+              -0.2245902,
+              51.5063527
+            ],
+            [
+              -0.2245895,
+              51.5061295
+            ],
+            [
+              -0.2246011,
+              51.5059281
+            ],
+            [
+              -0.2245893,
+              51.50575
+            ],
+            [
+              -0.2245587,
+              51.5055573
+            ],
+            [
+              -0.2245235,
+              51.5054377
+            ],
+            [
+              -0.2244259,
+              51.5053197
+            ],
+            [
+              -0.2242903,
+              51.5052183
+            ],
+            [
+              -0.2241097,
+              51.5051327
+            ],
+            [
+              -0.2237877,
+              51.5050418
+            ],
+            [
+              -0.2234188,
+              51.5049673
+            ],
+            [
+              -0.2228371,
+              51.5048818
+            ],
+            [
+              -0.2212821,
+              51.5046532
+            ],
+            [
+              -0.2210392,
+              51.5046199
+            ],
+            [
+              -0.2200915,
+              51.5044851
+            ],
+            [
+              -0.220003,
+              51.5044739
+            ],
+            [
+              -0.2199011,
+              51.5044678
+            ],
+            [
+              -0.2196757,
+              51.5044698
+            ],
+            [
+              -0.2195517,
+              51.504464
+            ],
+            [
+              -0.2193712,
+              51.5044448
+            ],
+            [
+              -0.2191374,
+              51.5043968
+            ],
+            [
+              -0.2189362,
+              51.5043801
+            ],
+            [
+              -0.2186952,
+              51.5043846
+            ],
+            [
+              -0.2184666,
+              51.5043956
+            ],
+            [
+              -0.2182378,
+              51.5044115
+            ],
+            [
+              -0.2180964,
+              51.5044328
+            ],
+            [
+              -0.2180042,
+              51.5044346
+            ],
+            [
+              -0.2177739,
+              51.5044651
+            ],
+            [
+              -0.2168851,
+              51.5046061
+            ],
+            [
+              -0.2127896,
+              51.5054928
+            ],
+            [
+              -0.209138,
+              51.5062901
+            ],
+            [
+              -0.2067942,
+              51.5068782
+            ]
+          ]
+        },
+        "id": "way/150882718"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150882719",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-5",
+          "level": "-5",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2005926,
+              51.508484
+            ],
+            [
+              -0.1993379,
+              51.5085279
+            ],
+            [
+              -0.1983807,
+              51.5085873
+            ],
+            [
+              -0.1981748,
+              51.5086281
+            ],
+            [
+              -0.198041,
+              51.508652
+            ],
+            [
+              -0.1979221,
+              51.508675
+            ],
+            [
+              -0.1977735,
+              51.5087065
+            ],
+            [
+              -0.197586,
+              51.5087499
+            ],
+            [
+              -0.1974003,
+              51.5087972
+            ],
+            [
+              -0.1972413,
+              51.5088416
+            ],
+            [
+              -0.1970496,
+              51.5088988
+            ],
+            [
+              -0.1969446,
+              51.5089337
+            ],
+            [
+              -0.1966454,
+              51.5090346
+            ],
+            [
+              -0.1964514,
+              51.5090944
+            ],
+            [
+              -0.1960617,
+              51.5091865
+            ],
+            [
+              -0.1956708,
+              51.5092684
+            ]
+          ]
+        },
+        "id": "way/150882719"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893503",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1179229,
+              51.517846
+            ],
+            [
+              -0.1162868,
+              51.5180282
+            ],
+            [
+              -0.1134685,
+              51.5181219
+            ],
+            [
+              -0.1123598,
+              51.5181175
+            ],
+            [
+              -0.1112557,
+              51.5181063
+            ],
+            [
+              -0.1103215,
+              51.5180403
+            ],
+            [
+              -0.1098724,
+              51.5180107
+            ],
+            [
+              -0.1065157,
+              51.5177164
+            ],
+            [
+              -0.1056818,
+              51.5175168
+            ],
+            [
+              -0.1051585,
+              51.5173743
+            ],
+            [
+              -0.1019417,
+              51.5163025
+            ],
+            [
+              -0.0997397,
+              51.5157552
+            ],
+            [
+              -0.0993861,
+              51.5156232
+            ]
+          ]
+        },
+        "id": "way/150893503"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893504",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0833782,
+              51.5168889
+            ],
+            [
+              -0.0830984,
+              51.5175518
+            ],
+            [
+              -0.0830271,
+              51.5176643
+            ],
+            [
+              -0.0829514,
+              51.5177483
+            ],
+            [
+              -0.082806,
+              51.5179223
+            ]
+          ]
+        },
+        "id": "way/150893504"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893505",
+          "electrified": "4th_rail",
+          "fixme": "pure quess as to whether Central is below Northern line",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "level": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1326089,
+              51.5162614
+            ],
+            [
+              -0.1313917,
+              51.5163525
+            ],
+            [
+              -0.1309205,
+              51.5163919
+            ],
+            [
+              -0.129849,
+              51.5165065
+            ]
+          ]
+        },
+        "id": "way/150893505"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893508",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1402345,
+              51.5155284
+            ],
+            [
+              -0.1395854,
+              51.5155892
+            ],
+            [
+              -0.1379139,
+              51.5157211
+            ],
+            [
+              -0.1367653,
+              51.5158498
+            ],
+            [
+              -0.1363749,
+              51.5159138
+            ],
+            [
+              -0.13455,
+              51.5161423
+            ],
+            [
+              -0.1326089,
+              51.5162614
+            ]
+          ]
+        },
+        "id": "way/150893508"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893510",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0865177,
+              51.5140532
+            ],
+            [
+              -0.0863616,
+              51.5141041
+            ],
+            [
+              -0.0861943,
+              51.5141729
+            ],
+            [
+              -0.0855875,
+              51.5147061
+            ],
+            [
+              -0.085448,
+              51.514796
+            ],
+            [
+              -0.0853075,
+              51.5148573
+            ],
+            [
+              -0.0851449,
+              51.5149115
+            ],
+            [
+              -0.0849597,
+              51.5149876
+            ],
+            [
+              -0.0847602,
+              51.5151022
+            ],
+            [
+              -0.0845563,
+              51.5152455
+            ],
+            [
+              -0.0844386,
+              51.5153465
+            ],
+            [
+              -0.0842592,
+              51.5155065
+            ],
+            [
+              -0.0842308,
+              51.5155352
+            ],
+            [
+              -0.0838276,
+              51.5160212
+            ],
+            [
+              -0.0836788,
+              51.5162131
+            ],
+            [
+              -0.0835422,
+              51.5164613
+            ],
+            [
+              -0.0833782,
+              51.5168889
+            ]
+          ]
+        },
+        "id": "way/150893510"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893512",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-3",
+          "level": "-5",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "note": "This track is below the westbound track at St. Pauls's station",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0993861,
+              51.5156232
+            ],
+            [
+              -0.0991304,
+              51.5155459
+            ],
+            [
+              -0.0986361,
+              51.5153986
+            ],
+            [
+              -0.0981471,
+              51.515255
+            ],
+            [
+              -0.096318,
+              51.5145608
+            ],
+            [
+              -0.0959093,
+              51.514454
+            ],
+            [
+              -0.0953155,
+              51.5143426
+            ]
+          ]
+        },
+        "id": "way/150893512"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/150893513",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0906968,
+              51.5135691
+            ],
+            [
+              -0.0905065,
+              51.5135292
+            ],
+            [
+              -0.0903168,
+              51.513484
+            ],
+            [
+              -0.0899426,
+              51.513401
+            ],
+            [
+              -0.0897675,
+              51.5133644
+            ],
+            [
+              -0.0897288,
+              51.5133596
+            ],
+            [
+              -0.0896855,
+              51.5133551
+            ],
+            [
+              -0.0896407,
+              51.5133514
+            ],
+            [
+              -0.0896049,
+              51.5133492
+            ],
+            [
+              -0.0895613,
+              51.5133479
+            ],
+            [
+              -0.089507,
+              51.5133479
+            ],
+            [
+              -0.089453,
+              51.5133498
+            ],
+            [
+              -0.089405,
+              51.5133522
+            ],
+            [
+              -0.0893689,
+              51.513355
+            ],
+            [
+              -0.0893214,
+              51.5133598
+            ],
+            [
+              -0.0892768,
+              51.5133652
+            ],
+            [
+              -0.0892264,
+              51.5133731
+            ],
+            [
+              -0.0891729,
+              51.5133829
+            ],
+            [
+              -0.0891332,
+              51.5133923
+            ],
+            [
+              -0.0890928,
+              51.5134021
+            ],
+            [
+              -0.0890314,
+              51.5134183
+            ],
+            [
+              -0.0884532,
+              51.5135923
+            ],
+            [
+              -0.0879804,
+              51.5137313
+            ],
+            [
+              -0.0878429,
+              51.5137675
+            ],
+            [
+              -0.0865177,
+              51.5140532
+            ]
+          ]
+        },
+        "id": "way/150893513"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692894",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3561693,
+              51.5450754
+            ],
+            [
+              -0.3538812,
+              51.5444681
+            ],
+            [
+              -0.3525312,
+              51.5440908
+            ]
+          ]
+        },
+        "id": "way/161692894"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692899",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3194329,
+              51.5357401
+            ],
+            [
+              -0.3097419,
+              51.5332773
+            ]
+          ]
+        },
+        "id": "way/161692899"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692907",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3242788,
+              51.5369744
+            ],
+            [
+              -0.3240287,
+              51.5369063
+            ]
+          ]
+        },
+        "id": "way/161692907"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692911",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3196776,
+              51.5358046
+            ],
+            [
+              -0.3194329,
+              51.5357401
+            ]
+          ]
+        },
+        "id": "way/161692911"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692927",
+          "bridge": "yes",
+          "bridge:ref": "16AA",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3566669,
+              51.545203
+            ],
+            [
+              -0.3561693,
+              51.5450754
+            ]
+          ]
+        },
+        "id": "way/161692927"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692931",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4317786,
+              51.5677426
+            ],
+            [
+              -0.4313435,
+              51.5676014
+            ]
+          ]
+        },
+        "id": "way/161692931"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692948",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3081057,
+              51.5328544
+            ],
+            [
+              -0.30765,
+              51.5327241
+            ]
+          ]
+        },
+        "id": "way/161692948"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692975",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.30765,
+              51.5327241
+            ],
+            [
+              -0.3063849,
+              51.5324064
+            ],
+            [
+              -0.3052009,
+              51.5321216
+            ],
+            [
+              -0.3041558,
+              51.5319194
+            ],
+            [
+              -0.3030912,
+              51.5317276
+            ]
+          ]
+        },
+        "id": "way/161692975"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/161692978",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3240287,
+              51.5369063
+            ],
+            [
+              -0.3234176,
+              51.5367531
+            ],
+            [
+              -0.3228789,
+              51.536613
+            ],
+            [
+              -0.3225593,
+              51.5365308
+            ],
+            [
+              -0.3221545,
+              51.5364299
+            ],
+            [
+              -0.321634,
+              51.5362972
+            ],
+            [
+              -0.3196776,
+              51.5358046
+            ]
+          ]
+        },
+        "id": "way/161692978"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162256632",
+          "layer": "-2",
+          "level": "-2",
+          "name": "Mile End - Central Line - Platform 4",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "ref": "4",
+          "tunnel": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0344745,
+              51.5251729
+            ],
+            [
+              -0.033487,
+              51.5254253
+            ],
+            [
+              -0.0320296,
+              51.5257489
+            ]
+          ]
+        },
+        "id": "way/162256632"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/162366620",
+          "layer": "-3",
+          "level": "-4",
+          "name": "Oxford Circus - Central Line - Eastbound - Plaform 2",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "ref": "2",
+          "subway": "yes",
+          "tunnel": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1413257,
+              51.5153779
+            ],
+            [
+              -0.1402345,
+              51.5154981
+            ]
+          ]
+        },
+        "id": "way/162366620"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/169226393",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0216826,
+              51.5809708
+            ],
+            [
+              0.0218392,
+              51.581193
+            ]
+          ]
+        },
+        "id": "way/169226393"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/185005318",
+          "cutting": "left",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0093704,
+              51.5695774
+            ],
+            [
+              0.010224,
+              51.5702578
+            ],
+            [
+              0.0111714,
+              51.5709249
+            ],
+            [
+              0.0117126,
+              51.5712688
+            ],
+            [
+              0.0122911,
+              51.5716026
+            ],
+            [
+              0.0135068,
+              51.5722231
+            ],
+            [
+              0.0147821,
+              51.5728943
+            ]
+          ]
+        },
+        "id": "way/185005318"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/191057595",
+          "bridge": "viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0205991,
+              51.5795184
+            ],
+            [
+              0.0215088,
+              51.5807279
+            ],
+            [
+              0.0216826,
+              51.5809708
+            ]
+          ]
+        },
+        "id": "way/191057595"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/219671463",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3525312,
+              51.5440908
+            ],
+            [
+              -0.3522296,
+              51.5440066
+            ]
+          ]
+        },
+        "id": "way/219671463"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/219671464",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3522296,
+              51.5440066
+            ],
+            [
+              -0.3509536,
+              51.5436688
+            ],
+            [
+              -0.3493996,
+              51.5432988
+            ],
+            [
+              -0.347598,
+              51.542872
+            ],
+            [
+              -0.3464948,
+              51.5426012
+            ]
+          ]
+        },
+        "id": "way/219671464"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/224377765",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3094146,
+              51.5331925
+            ],
+            [
+              -0.3081057,
+              51.5328544
+            ]
+          ]
+        },
+        "id": "way/224377765"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/224377781",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3097419,
+              51.5332773
+            ],
+            [
+              -0.3094146,
+              51.5331925
+            ]
+          ]
+        },
+        "id": "way/224377781"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/224887197",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0147821,
+              51.5728943
+            ],
+            [
+              0.0153361,
+              51.57318
+            ]
+          ]
+        },
+        "id": "way/224887197"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/224887198",
+          "cutting": "left",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0153361,
+              51.57318
+            ],
+            [
+              0.0157166,
+              51.5734084
+            ],
+            [
+              0.0161484,
+              51.5737242
+            ],
+            [
+              0.0168249,
+              51.5744419
+            ],
+            [
+              0.0205991,
+              51.5795184
+            ]
+          ]
+        },
+        "id": "way/224887198"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/233945607",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.339421,
+              51.5407288
+            ],
+            [
+              -0.3352112,
+              51.539622
+            ]
+          ]
+        },
+        "id": "way/233945607"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/233945608",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3398582,
+              51.5408455
+            ],
+            [
+              -0.339421,
+              51.5407288
+            ]
+          ]
+        },
+        "id": "way/233945608"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/303304488",
+          "layer": "-2",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "subway": "yes",
+          "tunnel": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1134691,
+              51.5181349
+            ],
+            [
+              -0.1112576,
+              51.5181189
+            ]
+          ]
+        },
+        "id": "way/303304488"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/303304492",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform",
+          "source": "Bing",
+          "subway": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2485224,
+              51.5177946
+            ],
+            [
+              -0.248082,
+              51.5173619
+            ],
+            [
+              -0.2478832,
+              51.5171722
+            ],
+            [
+              -0.2476817,
+              51.5169991
+            ],
+            [
+              -0.2474347,
+              51.5168148
+            ]
+          ]
+        },
+        "id": "way/303304492"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/389572566",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2041725,
+              51.5076498
+            ],
+            [
+              -0.2020246,
+              51.5082797
+            ],
+            [
+              -0.2012088,
+              51.5084483
+            ],
+            [
+              -0.2005926,
+              51.508484
+            ]
+          ]
+        },
+        "id": "way/389572566"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/389572581",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "source": "Survey of 2015-12-20",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2067942,
+              51.5068782
+            ],
+            [
+              -0.206608,
+              51.5069336
+            ],
+            [
+              -0.2060487,
+              51.5070993
+            ],
+            [
+              -0.2060181,
+              51.5071084
+            ],
+            [
+              -0.2058848,
+              51.5071487
+            ],
+            [
+              -0.2057886,
+              51.5071778
+            ],
+            [
+              -0.2057343,
+              51.5071935
+            ],
+            [
+              -0.2056444,
+              51.5072194
+            ],
+            [
+              -0.2055399,
+              51.5072495
+            ]
+          ]
+        },
+        "id": "way/389572581"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/533839927",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              0.0339227,
+              51.6066397
+            ],
+            [
+              0.0343524,
+              51.6074789
+            ],
+            [
+              0.0344499,
+              51.6076298
+            ],
+            [
+              0.034878,
+              51.6082928
+            ],
+            [
+              0.0357688,
+              51.6095242
+            ],
+            [
+              0.038396,
+              51.6128188
+            ],
+            [
+              0.0397225,
+              51.6144635
+            ],
+            [
+              0.0408016,
+              51.615811
+            ]
+          ]
+        },
+        "id": "way/533839927"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/568170816",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1212144,
+              51.5175018
+            ],
+            [
+              -0.1202096,
+              51.5175976
+            ],
+            [
+              -0.119335,
+              51.5176949
+            ],
+            [
+              -0.1183896,
+              51.5178001
+            ],
+            [
+              -0.1179229,
+              51.517846
+            ]
+          ]
+        },
+        "id": "way/568170816"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/568170832",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.129849,
+              51.5165065
+            ],
+            [
+              -0.1290331,
+              51.5166419
+            ],
+            [
+              -0.1279161,
+              51.516821
+            ],
+            [
+              -0.1264186,
+              51.5170063
+            ],
+            [
+              -0.1252581,
+              51.5171424
+            ],
+            [
+              -0.1246073,
+              51.5172042
+            ],
+            [
+              -0.1241424,
+              51.5172443
+            ],
+            [
+              -0.1227724,
+              51.5173589
+            ],
+            [
+              -0.1222742,
+              51.5174016
+            ],
+            [
+              -0.1212144,
+              51.5175018
+            ]
+          ]
+        },
+        "id": "way/568170832"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/569024977",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0953155,
+              51.5143426
+            ],
+            [
+              -0.0934612,
+              51.5140505
+            ],
+            [
+              -0.0918403,
+              51.5137644
+            ],
+            [
+              -0.0906968,
+              51.5135691
+            ]
+          ]
+        },
+        "id": "way/569024977"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/570303730",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-3",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2055399,
+              51.5072495
+            ],
+            [
+              -0.2054245,
+              51.5072828
+            ],
+            [
+              -0.2053368,
+              51.5073081
+            ],
+            [
+              -0.2051951,
+              51.5073491
+            ],
+            [
+              -0.2050314,
+              51.5073975
+            ],
+            [
+              -0.2049964,
+              51.5074079
+            ],
+            [
+              -0.2041725,
+              51.5076498
+            ]
+          ]
+        },
+        "id": "way/570303730"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/571633910",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "level": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102768",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0568367,
+              51.5273816
+            ],
+            [
+              -0.0563375,
+              51.5274006
+            ],
+            [
+              -0.0559609,
+              51.5273941
+            ],
+            [
+              -0.0553816,
+              51.5273718
+            ],
+            [
+              -0.0544895,
+              51.527328
+            ],
+            [
+              -0.0536005,
+              51.5272844
+            ],
+            [
+              -0.0527019,
+              51.5272332
+            ]
+          ]
+        },
+        "id": "way/571633910"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/571633911",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-2",
+          "line": "Central",
+          "loading_gauge": "deep-tube",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "relation": "102768",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.0818524,
+              51.5188379
+            ],
+            [
+              -0.0787646,
+              51.5211088
+            ],
+            [
+              -0.0777279,
+              51.5218712
+            ],
+            [
+              -0.0769249,
+              51.5223663
+            ],
+            [
+              -0.0761866,
+              51.5228322
+            ],
+            [
+              -0.0755819,
+              51.5231808
+            ],
+            [
+              -0.0719266,
+              51.5248124
+            ],
+            [
+              -0.0709441,
+              51.5252803
+            ],
+            [
+              -0.0704752,
+              51.5254753
+            ],
+            [
+              -0.0698913,
+              51.5256763
+            ],
+            [
+              -0.0690731,
+              51.525864
+            ],
+            [
+              -0.0679381,
+              51.5260661
+            ],
+            [
+              -0.0664355,
+              51.5262827
+            ],
+            [
+              -0.0579457,
+              51.5272401
+            ],
+            [
+              -0.0571696,
+              51.5273465
+            ],
+            [
+              -0.0568367,
+              51.5273816
+            ]
+          ]
+        },
+        "id": "way/571633911"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/573738333",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3457662,
+              51.5424221
+            ],
+            [
+              -0.3455722,
+              51.5423733
+            ],
+            [
+              -0.3447915,
+              51.5421781
+            ],
+            [
+              -0.3434869,
+              51.5418472
+            ]
+          ]
+        },
+        "id": "way/573738333"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/762100083",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3980628,
+              51.5566033
+            ],
+            [
+              -0.3976496,
+              51.55645
+            ],
+            [
+              -0.3972286,
+              51.5562833
+            ],
+            [
+              -0.3959033,
+              51.5557372
+            ],
+            [
+              -0.3945829,
+              51.5552097
+            ],
+            [
+              -0.3915393,
+              51.553983
+            ],
+            [
+              -0.391463,
+              51.5539533
+            ],
+            [
+              -0.3909483,
+              51.5537507
+            ],
+            [
+              -0.3904266,
+              51.5535419
+            ],
+            [
+              -0.3899359,
+              51.5533602
+            ],
+            [
+              -0.3894022,
+              51.5531834
+            ],
+            [
+              -0.3887417,
+              51.5530004
+            ],
+            [
+              -0.3881701,
+              51.5528646
+            ],
+            [
+              -0.3874823,
+              51.5527289
+            ],
+            [
+              -0.3867212,
+              51.5526057
+            ],
+            [
+              -0.3857633,
+              51.552478
+            ],
+            [
+              -0.3850755,
+              51.5523735
+            ],
+            [
+              -0.3845241,
+              51.5522762
+            ],
+            [
+              -0.3840545,
+              51.5521762
+            ],
+            [
+              -0.3835169,
+              51.5520512
+            ],
+            [
+              -0.3819982,
+              51.551668
+            ],
+            [
+              -0.3796284,
+              51.551066
+            ],
+            [
+              -0.3766454,
+              51.5503078
+            ],
+            [
+              -0.3737206,
+              51.5495635
+            ],
+            [
+              -0.3717896,
+              51.549073
+            ],
+            [
+              -0.3704472,
+              51.5487293
+            ],
+            [
+              -0.3703661,
+              51.548709
+            ],
+            [
+              -0.3684812,
+              51.5482314
+            ],
+            [
+              -0.3675595,
+              51.5479972
+            ],
+            [
+              -0.3661129,
+              51.5476335
+            ],
+            [
+              -0.3656933,
+              51.5475288
+            ],
+            [
+              -0.3642511,
+              51.5471644
+            ],
+            [
+              -0.3625777,
+              51.5467265
+            ],
+            [
+              -0.3594726,
+              51.5459245
+            ],
+            [
+              -0.3566669,
+              51.545203
+            ]
+          ]
+        },
+        "id": "way/762100083"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586300",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243744,
+              51.5102457
+            ],
+            [
+              -0.2243722,
+              51.510197
+            ]
+          ]
+        },
+        "id": "way/918586300"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586304",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243852,
+              51.5103954
+            ],
+            [
+              -0.2243744,
+              51.5102457
+            ]
+          ]
+        },
+        "id": "way/918586304"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586306",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243879,
+              51.5105368
+            ],
+            [
+              -0.2243887,
+              51.5104478
+            ],
+            [
+              -0.2243852,
+              51.5103954
+            ]
+          ]
+        },
+        "id": "way/918586306"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586312",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243989,
+              51.510859
+            ],
+            [
+              -0.2243914,
+              51.5106754
+            ],
+            [
+              -0.2243879,
+              51.5105368
+            ]
+          ]
+        },
+        "id": "way/918586312"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586327",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2243816,
+              51.5117729
+            ],
+            [
+              -0.2244166,
+              51.5112234
+            ],
+            [
+              -0.2243989,
+              51.510859
+            ]
+          ]
+        },
+        "id": "way/918586327"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918586328",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.224386,
+              51.512123
+            ],
+            [
+              -0.224384,
+              51.5119461
+            ]
+          ]
+        },
+        "id": "way/918586328"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/918985354",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "-1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "tunnel": "yes",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.224384,
+              51.5119461
+            ],
+            [
+              -0.2243816,
+              51.5117729
+            ]
+          ]
+        },
+        "id": "way/918985354"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/919770809",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3464948,
+              51.5426012
+            ],
+            [
+              -0.3462356,
+              51.5425403
+            ],
+            [
+              -0.3460122,
+              51.5424841
+            ]
+          ]
+        },
+        "id": "way/919770809"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/919770813",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3458028,
+              51.5424313
+            ],
+            [
+              -0.3457662,
+              51.5424221
+            ]
+          ]
+        },
+        "id": "way/919770813"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/919770814",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3458968,
+              51.542455
+            ],
+            [
+              -0.3458028,
+              51.5424313
+            ]
+          ]
+        },
+        "id": "way/919770814"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/919770816",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "level": "1",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "oneway": "yes",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.3460122,
+              51.5424841
+            ],
+            [
+              -0.3458968,
+              51.542455
+            ]
+          ]
+        },
+        "id": "way/919770816"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1004711042",
+          "covered": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Central",
+          "name": "Central Line - Eastbound",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.4376928,
+              51.5696587
+            ],
+            [
+              -0.4375871,
+              51.5696218
+            ]
+          ]
+        },
+        "id": "way/1004711042"
+      }
+    ]
+  }

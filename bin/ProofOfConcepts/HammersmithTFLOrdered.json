@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Hammersmith (H&C Line) Underground Station",
+        "lon": -0.225013,
+        "lat": 51.493535,
+        "id": "940GZZLUHSC",
+        "previousStation": "null",
+        "nextStation": "Goldhawk Road Underground Station"
+    },
+    {
+        "name": "Goldhawk Road Underground Station",
+        "lon": -0.226715,
+        "lat": 51.502005,
+        "id": "940GZZLUGHK",
+        "previousStation": "Hammersmith (H&C Line) Underground Station",
+        "nextStation": "Shepherd's Bush Market Underground Station"
+    },
+    {
+        "name": "Shepherd's Bush Market Underground Station",
+        "lon": -0.226375,
+        "lat": 51.505579,
+        "id": "940GZZLUSBM",
+        "previousStation": "Goldhawk Road Underground Station",
+        "nextStation": "Wood Lane Underground Station"
+    },
+    {
+        "name": "Wood Lane Underground Station",
+        "lon": -0.22453,
+        "lat": 51.509669,
+        "id": "940GZZLUWLA",
+        "previousStation": "Shepherd's Bush Market Underground Station",
+        "nextStation": "Latimer Road Underground Station"
+    },
+    {
+        "name": "Latimer Road Underground Station",
+        "lon": -0.217799,
+        "lat": 51.513389,
+        "id": "940GZZLULRD",
+        "previousStation": "Wood Lane Underground Station",
+        "nextStation": "Ladbroke Grove Underground Station"
+    },
+    {
+        "name": "Ladbroke Grove Underground Station",
+        "lon": -0.210391,
+        "lat": 51.517449,
+        "id": "940GZZLULAD",
+        "previousStation": "Latimer Road Underground Station",
+        "nextStation": "Westbourne Park Underground Station"
+    },
+    {
+        "name": "Westbourne Park Underground Station",
+        "lon": -0.201065,
+        "lat": 51.52111,
+        "id": "940GZZLUWSP",
+        "previousStation": "Ladbroke Grove Underground Station",
+        "nextStation": "Royal Oak Underground Station"
+    },
+    {
+        "name": "Royal Oak Underground Station",
+        "lon": -0.188748,
+        "lat": 51.519113,
+        "id": "940GZZLURYO",
+        "previousStation": "Westbourne Park Underground Station",
+        "nextStation": "Paddington (H&C Line)-Underground"
+    },
+    {
+        "name": "Paddington (H&C Line)-Underground",
+        "lon": -0.178306,
+        "lat": 51.518187,
+        "id": "940GZZLUPAH",
+        "previousStation": "Royal Oak Underground Station",
+        "nextStation": "Edgware Road (Circle Line) Underground Station"
+    },
+    {
+        "name": "Edgware Road (Circle Line) Underground Station",
+        "lon": -0.167832,
+        "lat": 51.519858,
+        "id": "940GZZLUERC",
+        "previousStation": "Paddington (H&C Line)-Underground",
+        "nextStation": "Baker Street Underground Station"
+    },
+    {
+        "name": "Baker Street Underground Station",
+        "lon": -0.15713,
+        "lat": 51.522883,
+        "id": "940GZZLUBST",
+        "previousStation": "Edgware Road (Circle Line) Underground Station",
+        "nextStation": "Great Portland Street Underground Station"
+    },
+    {
+        "name": "Great Portland Street Underground Station",
+        "lon": -0.144262,
+        "lat": 51.52384,
+        "id": "940GZZLUGPS",
+        "previousStation": "Baker Street Underground Station",
+        "nextStation": "Euston Square Underground Station"
+    },
+    {
+        "name": "Euston Square Underground Station",
+        "lon": -0.135829,
+        "lat": 51.525604,
+        "id": "940GZZLUESQ",
+        "previousStation": "Great Portland Street Underground Station",
+        "nextStation": "King's Cross St. Pancras Underground Station"
+    },
+    {
+        "name": "King's Cross St. Pancras Underground Station",
+        "lon": -0.123194,
+        "lat": 51.530663,
+        "id": "940GZZLUKSX",
+        "previousStation": "Euston Square Underground Station",
+        "nextStation": "Farringdon Underground Station"
+    },
+    {
+        "name": "Farringdon Underground Station",
+        "lon": -0.104913,
+        "lat": 51.520252,
+        "id": "940GZZLUFCN",
+        "previousStation": "King's Cross St. Pancras Underground Station",
+        "nextStation": "Barbican Underground Station"
+    },
+    {
+        "name": "Barbican Underground Station",
+        "lon": -0.097993,
+        "lat": 51.520275,
+        "id": "940GZZLUBBN",
+        "previousStation": "Farringdon Underground Station",
+        "nextStation": "Moorgate Underground Station"
+    },
+    {
+        "name": "Moorgate Underground Station",
+        "lon": -0.088322,
+        "lat": 51.518176,
+        "id": "940GZZLUMGT",
+        "previousStation": "Barbican Underground Station",
+        "nextStation": "Liverpool Street Underground Station"
+    },
+    {
+        "name": "Liverpool Street Underground Station",
+        "lon": -0.083182,
+        "lat": 51.517372,
+        "id": "940GZZLULVT",
+        "previousStation": "Moorgate Underground Station",
+        "nextStation": "Aldgate East Underground Station"
+    },
+    {
+        "name": "Aldgate East Underground Station",
+        "lon": -0.072384,
+        "lat": 51.515037,
+        "id": "940GZZLUADE",
+        "previousStation": "Liverpool Street Underground Station",
+        "nextStation": "Whitechapel Underground Station"
+    },
+    {
+        "name": "Whitechapel Underground Station",
+        "lon": -0.059971,
+        "lat": 51.519518,
+        "id": "940GZZLUWPL",
+        "previousStation": "Aldgate East Underground Station",
+        "nextStation": "Stepney Green Underground Station"
+    },
+    {
+        "name": "Stepney Green Underground Station",
+        "lon": -0.046596,
+        "lat": 51.521858,
+        "id": "940GZZLUSGN",
+        "previousStation": "Whitechapel Underground Station",
+        "nextStation": "Mile End Underground Station"
+    },
+    {
+        "name": "Mile End Underground Station",
+        "lon": -0.03364,
+        "lat": 51.525122,
+        "id": "940GZZLUMED",
+        "previousStation": "Stepney Green Underground Station",
+        "nextStation": "Bow Road Underground Station"
+    },
+    {
+        "name": "Bow Road Underground Station",
+        "lon": -0.025128,
+        "lat": 51.52694,
+        "id": "940GZZLUBWR",
+        "previousStation": "Mile End Underground Station",
+        "nextStation": "Bromley-by-Bow Underground Station"
+    },
+    {
+        "name": "Bromley-by-Bow Underground Station",
+        "lon": -0.011538,
+        "lat": 51.524839,
+        "id": "940GZZLUBBB",
+        "previousStation": "Bow Road Underground Station",
+        "nextStation": "West Ham Underground Station"
+    },
+    {
+        "name": "West Ham Underground Station",
+        "lon": 0.005055,
+        "lat": 51.528136,
+        "id": "940GZZLUWHM",
+        "previousStation": "Bromley-by-Bow Underground Station",
+        "nextStation": "Plaistow Underground Station"
+    },
+    {
+        "name": "Plaistow Underground Station",
+        "lon": 0.017451,
+        "lat": 51.531341,
+        "id": "940GZZLUPLW",
+        "previousStation": "West Ham Underground Station",
+        "nextStation": "Upton Park Underground Station"
+    },
+    {
+        "name": "Upton Park Underground Station",
+        "lon": 0.035263,
+        "lat": 51.53534,
+        "id": "940GZZLUUPK",
+        "previousStation": "Plaistow Underground Station",
+        "nextStation": "East Ham Underground Station"
+    },
+    {
+        "name": "East Ham Underground Station",
+        "lon": 0.051186,
+        "lat": 51.538948,
+        "id": "940GZZLUEHM",
+        "previousStation": "Upton Park Underground Station",
+        "nextStation": "Barking Underground Station"
+    },
+    {
+        "name": "Barking Underground Station",
+        "lon": 0.081053,
+        "lat": 51.539321,
+        "id": "940GZZLUBKG",
+        "previousStation": "East Ham Underground Station",
+        "nextStation": "null"
+    }
+]

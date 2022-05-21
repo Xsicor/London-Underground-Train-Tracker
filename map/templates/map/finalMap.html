@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Mapbox Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet' />
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'map/style.css' %}" />
+
+</head>
+
+<body>
+    <div id='map'></div>
+    {% load static %}
+    <script type='text/javascript'>
+        async function getJsonData(url) {
+            let staticJsonData
+            while (true){
+                staticJsonData = await fetch(url);
+                if (staticJsonData.ok) break
+            }
+            const jsonData = await staticJsonData.json();
+            return jsonData;
+        }
+        function getStationName(stationNaptanId) {
+            return stationData.stations.find(station => station.naptanId === stationNaptanId).name;
+        }
+        
+        var stationData;
+        var railwayData;
+        var timetableData;
+        var routeData;
+        var firstTestData;
+        var secondTestData;
+        var thirdTestData;
+        var viaMap = {
+            'CX': '940GZZLUCHX',
+            'Bank': '940GZZLUBNK'
+        };
+        var lineColors = {
+            'bakerloo': '#B36305',
+            'central': '#E32017',
+            'circle': '#FFD300',
+            'district': '#00782A',
+            'hammersmith-city': '#F3A9BB',
+            'jubilee': '#A0A5A9',
+            'metropolitan': '#9B0056',
+            'northern': '#000000',
+            'piccadilly': '#003688',
+            'victoria': '#0098D4',
+            'waterloo-city': '#95CDBA'
+        };
+    </script>
+    {{ stationData|json_script:"stationData" }}
+    {{ railwayData|json_script:"railwayData" }}
+    {{ timetableData|json_script:"timetableData" }}
+    {{ routeData|json_script:"routeData" }}
+
+    {% if firstTestData %}
+        <script>
+            var firstTestData;
+            var secondTestData;
+            var thirdTestData;
+        </script>
+        {{ firstTestData|json_script:"firstTestData" }}
+        {{ secondTestData|json_script:"secondTestData" }}
+        {{ thirdTestData|json_script:"thirdTestData" }}
+        <script src="{% static 'map/testBundle.js' %}"></script>
+    {% else %}
+        <script src="{% static 'map/bundle.js' %}"></script>
+    {% endif %}    
+</body>
+
+</html>
