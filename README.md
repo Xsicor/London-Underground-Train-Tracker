@@ -1,4 +1,5 @@
 # Live TFL Underground train tracker
+A map that displays the live location of trains on the London Underground.
 ## Setting up the project
 In the root directory of this project, setup a virtual environment. <br>
 For linux run the following commands:
